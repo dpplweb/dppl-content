@@ -14,21 +14,22 @@
 
     </head>
     <body>
-
-        <div class="container">
-          <div class="site">
-            <div class="header">
-              <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-              <a class="extra" href="{{ site.baseurl }}/">home</a>
-            </div>
-
-                {{ content }}
-
-            <div class="footer">
-              <p>{{ site.owner }}
-            </div>
-          </div>
-        </div> <!-- /container -->
+        <header>
+          <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+          <nav>
+            <ul class="nav">
+            {% for section in site.sections %}
+                <li><a href="{{ site.baseurl }}{{ section }}">{{ section }}</a></li>
+            {% endfor %}
+            </ul>
+          </nav>
+        <header>
+        <div class="content">
+            {{ content }}
+        </div> <!-- /content -->
+        <footer>
+            <p>{{ site.owner }}</p>
+        </footer>
 
     </body>
 </html>
