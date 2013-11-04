@@ -58,29 +58,30 @@ ul.posts span {
 /*
 /*****************************************************************************/
 
-header{
-  height: 48px; line-height: 48px; padding: 0 4%; background-color: #ddd;
+.site-header, nav{
+  height: 48px; line-height: 48px; margin: 0; padding: 0 4%;
 }
 
-header a {
+.site-header{ background-color: #ddd;}
+
+.site-header a {
   text-decoration: none;
 }
 
-header h1.title {
-  display: inline-block;
+.site-title {
   margin: 0;
 }
 
-header h1.title a {
+.site-title a {
   color: #333;
 }
 
-header h1.title a:hover {
+.site-title a:hover {
   color: red;
 }
 
-.nav{list-style: none; padding: 0;}
-.nav li {display: block; float: left; margin-left: 2%;}
+.nav{margin: 0; padding: 0;list-style: none; }
+.nav li {display: block; float: left; margin-right: 3%;}
 .nav li a{display: block; height: 48px; line-height: 48px;}
 
 .content{padding: 4%; overflow: hidden;}

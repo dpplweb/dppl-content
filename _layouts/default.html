@@ -14,16 +14,16 @@
 
     </head>
     <body>
-        <header>
-          <h1 class="title"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-          <nav>
+        <header class="site-header">
+          <h1 class="site-title"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
+        </header>
+        <nav>
             <ul class="nav">
             {% for section in site.sections %}
                 <li><a href="{{ site.baseurl }}{{ section }}">{{ section }}</a></li>
             {% endfor %}
             </ul>
           </nav>
-        <header>
         <div class="content">
             {{ content }}
         </div> <!-- /content -->
