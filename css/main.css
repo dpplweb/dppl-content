@@ -16,8 +16,6 @@ body {
   color: #333;
 }
 
-h1,h2,h3,h4,h5,h6{font-size: 100%;}
-
 h1 { margin-bottom: 1em; }
 p { margin: 1em 0; }
 
@@ -59,7 +57,7 @@ ul.posts span {
 /*****************************************************************************/
 
 .site-header, nav{
-  height: 48px; line-height: 48px; margin: 0; padding: 0 4%;
+  height: 48px; line-height: 48px; margin: 0; padding: 0 4%; broder-bottom: 1px solid #ddd;
 }
 
 .site-header{ background-color: #ddd;}
@@ -69,6 +67,7 @@ ul.posts span {
 }
 
 .site-title {
+  font-size: 100%;
   margin: 0;
 }
 
@@ -80,9 +79,10 @@ ul.posts span {
   color: red;
 }
 
+
 .nav{margin: 0; padding: 0;list-style: none; }
 .nav li {display: block; float: left; margin-right: 3%;}
-.nav li a{display: block; height: 48px; line-height: 48px;}
+.nav li a{display: block; height: 48px; line-height: 48px; text-decoration: none; color: #333;}
 
 .content{padding: 4%; overflow: hidden;}
 
