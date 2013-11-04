@@ -1,0 +1,43 @@
+name: DPPL Content
+owner: Des Plaines Public Library
+baseurl: /
+permalink: none
+markdown: redcarpet
+pygments: true
+authors: [brodie, carol, roberta, john, cathy, lynne, cheryl, heather, christina, joanne, sara, courtney, joanie]
+sections: [home, visit, calendar, resources, books-movies-music, patron-services, support-the-library, about, blog, newsletter, contact]
+prose:
+    rooturl: "_posts"
+    metadata:
+        _posts:
+            - name: "layout"
+              field:
+                element: "hidden"
+            - name: "title"
+              field:
+                element: "hidden"
+            - name: "author"
+              field:
+                element: "hidden"
+            - name: "section"
+              field:
+                element: "hidden"
+            - name: "categories"
+              field:
+                element: "hidden"
+            - name: "audience"
+              field:
+                element: "text"
+                label: "Who is the primary user of this page?"
+            - name: "keywords"
+              field:
+                element: "text"
+                label: "List keywords that describe the content"
+            - name: "goals"
+              field:
+                element: "text"
+                label: "What should the user learn or do on this page?"
+            - name: "actions"
+              field:
+                element: "text"
+                label: "List any key actions that the user should take"
