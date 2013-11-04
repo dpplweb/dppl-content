@@ -1,6 +1,6 @@
 name: DPPL Content
 owner: Des Plaines Public Library
-baseurl: /
+baseurl: /dppl-content
 permalink: none
 markdown: redcarpet
 pygments: true
