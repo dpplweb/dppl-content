@@ -1,7 +1,9 @@
 ---
 layout: default
 title: Calendar
+section: calendar
 ---
+
 <ul class="posts">
 {% for post in site.categories[section] %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
