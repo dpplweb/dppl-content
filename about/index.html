@@ -1,0 +1,11 @@
+---
+layout: default
+title: About
+section: About
+---
+
+<ul class="posts">
+{% for post in site.categories['about'] %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

@@ -1,0 +1,11 @@
+---
+layout: default
+title: "Books, Movies, Music"
+section: books-movies-music
+---
+
+<ul class="posts">
+{% for post in site.categories['books-movies-music'] %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>

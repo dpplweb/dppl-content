@@ -1,0 +1,11 @@
+---
+layout: default
+title: Support the Library
+section: support-the-library
+---
+
+<ul class="posts">
+{% for post in site.categories['support-the-library'] %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+{% endfor %}
+</ul>
