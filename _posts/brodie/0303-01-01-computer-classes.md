@@ -4,8 +4,8 @@ title: Computer classes
 author: Brodie
 section: calendar
 categories: [calendar, brodie]
-audience: ''
-keywords: ''
-goals: ''
-actions: ''
+audience: ""
+keywords: ""
+goals: ""
+actions: ""
 ---
