@@ -4,23 +4,46 @@ title: DPPL Content
 ---
 
 <div id="home">
-    <h2>By author</h2>
+    <h2 class="by-header open">By author</h2>
+    <div class="post-section open">
     {% for author in site.authors %}
-        <h3>{{ author }}</h3>
+        <h3 class="posts-header open">{{ author }}</h3>
         <ul class="posts">
         {% for post in site.categories[author] %}
             <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
       </ul>
     {% endfor %}
-    <hr />
-    <h2>By Section</h2>
+    </div>
+  <hr />
+    <h2 class="by-header open">By Section</h2>
+    <div class="post-section">
       {% for section in site.sections %}
-      <h3>{{ section }}</h3>
+      <h3 class="post-header open">{{ section }}</h3>
       <ul class="posts">
         {% for post in site.categories[section] %}
           <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
         {% endfor %}
       </ul>
       {% endfor %}
+    </div>
 </div>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script>
+  $(document).ready(function(){
+      $('.posts').hide();
+      $('.posts-header').click(function(){
+        $(this).next('.posts').toggle();
+        $(this).toggleClass('open');
+        $(this).toggleClass('close');
+      })
+      $('.by-header').click(function(){
+        $(this).next('.post-section').find('.posts').toggle();
+        $(this).next('.post-section').find('.posts-header').toggleClass('open');
+        $(this).next('.post-section').find('.posts-header').toggleClass('close');
+        $(this).toggleClass('open');
+        $(this).toggleClass('close');
+      })
+
+  })
+</script>

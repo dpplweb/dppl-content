@@ -26,15 +26,17 @@ hr{
   border-top: 1px solid #ddd;
 }
 
-a         { color: #00a; }
-a:hover   { color: #000; }
-a:visited { color: #a0a; }
+a         { color: #333; }
+a:hover   { color: red; }
 
 /*****************************************************************************/
 /*
 /* Home
 /*
 /*****************************************************************************/
+#home h2, #home h3{cursor: pointer;}
+#home h2:hover, #home h3:hover{color: red;}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
@@ -67,20 +69,15 @@ ul.posts li {
   margin: 0;
 }
 
-.site-title a {
-  color: #333;
-}
-
-.site-title a:hover {
-  color: red;
-}
-
 
 .nav{margin: 0; padding: 0;list-style: none; }
 .nav li {display: block; float: left; margin-right: 3%;}
-.nav li a{display: block; height: 48px; line-height: 48px; text-decoration: none; color: #333;}
+.nav li a{display: block; height: 48px; line-height: 48px; text-decoration: none;}
 
-.content{width: 60%; max-width: 700px; margin: 20px auto; overflow: hidden;}
+.content{width: 60%; max-width: 700px; margin: 20px auto; padding-bottom: 40px; overflow: hidden;}
+
+.open:after{display: inline-block; margin-left: 8px; padding: 0 4px; line-height: 1.1; content: "  \002B"; background-color: #ddd; border-radius: 4px;}
+.close:after{display: inline-block; margin-left: 8px; padding: 0 6px; line-height: 1.1; content: "  \002D"; background-color: #ddd; border-radius: 4px;}
 
 footer {
   font-size: 80%;
