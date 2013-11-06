@@ -1,11 +1,16 @@
 ---
+categories: 
+  - resources
+  - joanne
+section: resources
+author: Joanne
 layout: post
 title: Investing
-author: Joanne
-section: resources
-categories: [resources, joanne]
 audience: ""
 keywords: ""
 goals: ""
 actions: ""
+published: true
 ---
+
+x marks the spot
