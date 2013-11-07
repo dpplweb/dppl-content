@@ -76,8 +76,8 @@ ul.posts li {
 
 .content{width: 60%; max-width: 700px; margin: 20px auto; padding-bottom: 40px; overflow: hidden;}
 
-.open:after{display: inline-block; margin-left: 8px; padding: 0 4px; line-height: 1.1; content: "  \002B"; background-color: #ddd; border-radius: 4px;}
-.close:after{display: inline-block; margin-left: 8px; padding: 0 6px; line-height: 1.1; content: "  \002D"; background-color: #ddd; border-radius: 4px;}
+.open:after{display: inline-block; margin-left: 8px; padding: 0 4px; line-height: 1.1; content: "  \002B";}
+.close:after{display: inline-block; margin-left: 8px; padding: 0 6px; line-height: 1.1; content: "  \002D";}
 
 footer {
   font-size: 80%;
