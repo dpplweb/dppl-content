@@ -34,19 +34,37 @@ a:hover   { color: red; }
 /* Home
 /*
 /*****************************************************************************/
-#home h2, #home h3{cursor: pointer;}
-#home h2:hover, #home h3:hover{color: red;}
+#home h2, #home h3{clear: both;}
 
-ul.posts {
+#site-index{float: left; width: 66%; margin-right: 4%;}
+#site-updates{float: left; width: 30%;}
+
+.posts-header{text-transform: uppercase;}
+
+ul.posts, ul.updates{
   list-style-type: none;
   margin-bottom: 2em;
   padding: 0;
+  overflow: hidden;
 }
 
 ul.posts li {
   line-height: 2em;
   padding: 0;
+  margin-right: 1em;
 }
+
+#home ul.posts li{
+  display: block;
+  float: left;}
+
+ul.updates > li{
+  margin-bottom: 4px;
+  padding: 4px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.update-time{display: block; color: #ccc;}
 
 /*****************************************************************************/
 /*

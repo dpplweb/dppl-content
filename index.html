@@ -4,10 +4,11 @@ title: DPPL Content
 ---
 
 <div id="home">
-    <h2 class="by-header open">By author</h2>
+  <div id="site-index">
+    <h2 class="by-header">By author</h2>
     <div class="post-section">
     {% for author in site.authors %}
-        <h3 class="posts-header open">{{ author }}</h3>
+        <h3 class="posts-header">{{ author }}</h3>
         <ul class="posts">
         {% for post in site.categories[author] %}
             <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
@@ -15,35 +16,27 @@ title: DPPL Content
       </ul>
     {% endfor %}
     </div>
-  <hr />
-    <h2 class="by-header open">By Section</h2>
-    <div class="post-section">
-      {% for section in site.sections %}
-      <h3 class="posts-header open">{{ section }}</h3>
-      <ul class="posts">
-        {% for post in site.categories[section] %}
-          <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-      {% endfor %}
-    </div>
+  </div>
+  <div id="site-updates">
+    <h4>Recent updates</h4>
+    <ul id="updates" class="updates"></ul>
+  </div>
 </div>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script>
   $(document).ready(function(){
-      $('.posts').hide();
-      $('.posts-header').click(function(){
-        $(this).next('.posts').toggle();
-        $(this).toggleClass('open');
-        $(this).toggleClass('close');
-      })
-      $('.by-header').click(function(){
-        $(this).next('.post-section').find('.posts').toggle();
-        $(this).next('.post-section').find('.posts-header').toggleClass('open');
-        $(this).next('.post-section').find('.posts-header').toggleClass('close');
-        $(this).toggleClass('open');
-        $(this).toggleClass('close');
-      })
+      $.getJSON('http://dppl.org/tools/feedtojson.php?jsoncallback=?', {url: 'https://github.com/dpplweb/dppl-content/commits/gh-pages.atom'}, function(data){
+        console.log(data);
+        $.each(data.entry, function(i){
+          if (i < 10){
+            var link = data.entry[i].link["@attributes"];
+            //console.log(link);
+            var li = $('<li>');
+            li.append(data.entry[i].title + '<span class="update-time">' + data.entry[i].updated + '</span>');
+            $('#updates').append(li);
+          }
+        });
+      });
 
   })
 </script>
