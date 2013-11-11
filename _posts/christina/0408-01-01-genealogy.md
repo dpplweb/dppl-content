@@ -54,7 +54,7 @@ Track down your relatives and ancestors who lived in Des Plaines and neighboring
 
 **General**
 
-### Cyndi's List of Genealoty Sites on the Internet
-This site categorizes genealogy sites on the Internet to make your searching easier. It's a great starting point for doing genealogy research. 
+### Cyndi's List of Genealogy Sites on the Internet
+This site categorizes genealogy sites to make your searching easier. It's a great starting point for doing genealogy research. 
 
 
