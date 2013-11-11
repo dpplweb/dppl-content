@@ -31,13 +31,13 @@ Find your ancestors in this huge collection of family trees and family history r
 ### Chicago Tribune - ProQuest Historical Newspapers
 Read the newspaper full text from 1849-1989. Includes photographs and advertisements.
 
-### Chicago Tribune Historical Archive
-Find obituaries from 1849-1989 with the easy-to-use obituary search box.
-
 **Obituaries**
 
 ### America's Obituaries and Death Notices
 Find newspaper obituaries and death notices from newspapers across the country.  Chicago Tribune obituaries are in Chicago Tribune from ProQuest.
+
+### Chicago Tribune Historical Archive
+Find obituaries from 1849-1989 with the easy-to-use obituary search box.
 
 ### Obituaries from ProQuest
 Obituaries from Atlanta Constitution (1868-1922), Boston Globe (1872-1922), Chicago Defender (1921- 1975), Chicago Tribune (1852-1984), Los Angeles Times (1881-1984), New York Times (1851-1994) and Washington Post (1877-1950).
@@ -45,7 +45,7 @@ Obituaries from Atlanta Constitution (1868-1922), Boston Globe (1872-1922), Chic
 **Local - Des Plaines**
 
 ### Des Plaines Memory
-Check out this fabulous collection of photographs, letters, postcards and more, all detailing Des Plaines' rich history. Join the many who have found their relatives in these images. In library only.
+Check out this fabulous collection of local newspapers, photographs, letters, postcards and more, all detailing Des Plaines' rich history. Join the many who have found their relatives in these images. In library only.
 
 ### Des Plaines Telephone Directories
 Track down your relatives and ancestors who lived in Des Plaines and neighboring communities. In library only.
@@ -56,5 +56,7 @@ Track down your relatives and ancestors who lived in Des Plaines and neighboring
 
 ### Cyndi's List of Genealogy Sites on the Internet
 This site categorizes genealogy sites to make your searching easier. It's a great starting point for doing genealogy research. 
+
+
 
 
