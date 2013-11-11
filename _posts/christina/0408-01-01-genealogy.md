@@ -26,15 +26,13 @@ Explore local histories, mine census data and search thousands of other records 
 ### World Vital Records
 Find your ancestors in this huge collection of family trees and family history records. Search the censuses from 1790-1949 as well as military, birth, death and marriage records.
 
-**Newspapers**
-
-### Chicago Tribune - ProQuest Historical Newspapers
-Read the newspaper full text from 1849-1989. Includes photographs and advertisements.
-
-**Obituaries**
+**Newspapers/Obituaries**
 
 ### America's Obituaries and Death Notices
 Find newspaper obituaries and death notices from newspapers across the country.  Chicago Tribune obituaries are in Chicago Tribune from ProQuest.
+
+### Chicago Tribune - ProQuest Historical Newspapers
+Read the newspaper full text from 1849-1989. Includes photographs and advertisements.
 
 ### Chicago Tribune
 Read the newspaper full-text from 1985 to the present. Obituaries from 2000 to the present are included.
