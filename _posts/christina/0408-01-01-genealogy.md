@@ -36,6 +36,9 @@ Read the newspaper full text from 1849-1989. Includes photographs and advertisem
 ### America's Obituaries and Death Notices
 Find newspaper obituaries and death notices from newspapers across the country.  Chicago Tribune obituaries are in Chicago Tribune from ProQuest.
 
+### Chicago Tribune
+Read the newspaper full-text from 1985 to the present. Obituaries from 2000 to the present are included.
+
 ### Chicago Tribune Historical Archive
 Find obituaries from 1849-1989 with the easy-to-use obituary search box.
 
@@ -56,6 +59,8 @@ Track down your relatives and ancestors who lived in Des Plaines and neighboring
 
 ### Cyndi's List of Genealogy Sites on the Internet
 This site categorizes genealogy sites to make your searching easier. It's a great starting point for doing genealogy research. 
+
+**Local - Illinois**
 
 
 
