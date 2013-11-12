@@ -1,11 +1,15 @@
 ---
+categories: 
+  - resources
+  - sara
+section: resources
+author: Sara
 layout: post
 title: Biography
-author: Sara
-section: resources
-categories: [resources, sara]
-audience: ""
-keywords: ""
+audience: students
+keywords: "online resources, biographical information"
 goals: ""
 actions: ""
+published: true
 ---
+
