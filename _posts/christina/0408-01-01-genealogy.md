@@ -60,6 +60,10 @@ This site categorizes genealogy sites to make your searching easier. It's a grea
 
 **Local - Illinois**
 
+**ChicagoAncestors**
+You can find and share information about Chicago history here. This is a project of the Newberry Library.
 
+**RootsWeb: Illinois**
 
+Find Illinois resources including museums, libraries, archives, cemetery records and more.
 
