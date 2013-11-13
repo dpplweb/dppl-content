@@ -58,6 +58,9 @@ Track down your relatives and ancestors who lived in Des Plaines and neighboring
 ### Cyndi's List of Genealogy Sites on the Internet
 This site categorizes genealogy sites to make your searching easier. It's a great starting point for doing genealogy research. 
 
+**FamilySearch**
+Search millions of records from arounc the world and create a family tree at this free site provided by The Church of Jesus Christ of Latter-day Saints. Registration is required.
+
 **Local - Illinois**
 
 **ChicagoAncestors**
