@@ -13,4 +13,7 @@ actions: ""
 published: true
 ---
 
-x marks the spot
+## Your Money
+
+### Money for Beginners
+You may be interested in learning to invest but for beginners learning about managing your money and even understanding your anxiety about momey is the first step. Here is a list of books that can help with this first step.
