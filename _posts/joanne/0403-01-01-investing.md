@@ -16,4 +16,4 @@ published: true
 ## Your Money
 
 ### Money for Beginners
-You may be interested in learning to invest but for beginners learning about managing your money and even understanding your anxiety about momey is the first step. Here is a list of books that can help with this first step.
+You may be interested in learning to invest but for beginners the first step may be  learning about managing your money and even understanding your anxiety about momey. [Here is a short list of books that can help with this first step.](http://dppl.bibliocommons.com/list/show/89616173_desplainesreference/213700548_money_for_beginners)
