@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Science Expo
-author: Cheryl
+title: Preschool Fair
+author: Courtney
 section: calendar
-categories: [calendar, cheryl]
+categories: [calendar, courtney]
 audience: ""
 keywords: ""
 goals: ""
