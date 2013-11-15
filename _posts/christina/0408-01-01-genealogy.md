@@ -16,6 +16,8 @@ published: true
 
 ##  SUBSCRIPTION DATABASES - DPPL library card required from home.
 
+### General Sites
+
 **These sites are great jumping-off points for new or seasoned genealogists. You get results from multiple databases in a single search. Read our GENEALOGY GUIDE for more tips on how to do genealogy research.**
 
 ### Ancestry Library Edition
@@ -26,6 +28,8 @@ Explore local histories, mine census data and search thousands of other records 
 
 ### World Vital Records
 Find your ancestors in this huge collection of family trees and family history records. Search the censuses from 1790-1949 as well as military, birth, death and marriage records.
+
+### Obituaries/Newspapers
 
 **Find more ancestors to add to your family tree when you search for obituaries and newspaper articles in these databases.**
 
@@ -58,17 +62,19 @@ In addition to the subscription databases we've listed above, there are lots of 
 
 **Good places to start**
 
-### Cyndi's List of Genealogy Sites on the Internet
+### [Cyndi's List of Genealogy Sites on the Internet](http://www.cyndislist.com/)
 This site categorizes genealogy sites to make your searching easier. It's a great starting point for doing genealogy research. 
 
-**FamilySearch**
+**[FamilySearch](https://familysearch.org/)**
+
 Search millions of records from arounc the world and create a family tree at this free site provided by The Church of Jesus Christ of Latter-day Saints. Registration is required.
 
-**Sources for finding out more about your Illinois ancestors**
+**Illinois ancestors**
 
-**ChicagoAncestors**
+**[ChicagoAncestors](http://chicagoancestors.org/)**
+
 You can find and share information about Chicago history here. This is a project of the Newberry Library.
 
-**RootsWeb: Illinois**
+**[RootsWeb: Illinois](http://www.rootsweb.ancestry.com/roots-l/USA/il.html)**
 
 Find Illinois resources including museums, libraries, archives, cemetery records and more.
