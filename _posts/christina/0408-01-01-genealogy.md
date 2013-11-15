@@ -54,7 +54,9 @@ Track down your relatives and ancestors who lived in Des Plaines and neighboring
 
 ## OUR FAVORITE WEB SITES FOR GENEALOGY
 
-**General**
+In addition to the subscription databases we've listed above, there are lots of excellent sources on the web for doing genealogy research. These are some of our favorites.
+
+**Good places to start**
 
 ### Cyndi's List of Genealogy Sites on the Internet
 This site categorizes genealogy sites to make your searching easier. It's a great starting point for doing genealogy research. 
@@ -62,7 +64,7 @@ This site categorizes genealogy sites to make your searching easier. It's a grea
 **FamilySearch**
 Search millions of records from arounc the world and create a family tree at this free site provided by The Church of Jesus Christ of Latter-day Saints. Registration is required.
 
-**Local - Illinois**
+**Sources for finding out more about your Illinois ancestors**
 
 **ChicagoAncestors**
 You can find and share information about Chicago history here. This is a project of the Newberry Library.
