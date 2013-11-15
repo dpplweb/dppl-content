@@ -33,7 +33,7 @@ Find your ancestors in this huge collection of family trees and family history r
 Find newspaper obituaries and death notices from newspapers across the country.  Chicago Tribune obituaries are in Chicago Tribune from ProQuest.
 
 ### Chicago Tribune - ProQuest Historical Newspapers
-Read the newspaper full text from 1849-1989. Includes photographs and advertisements.
+Read the newspaper full text from 1849-1989. The pages include photographs and advertisements.
 
 ### Chicago Tribune
 Read the newspaper full-text from 1985 to the present. Obituaries from 2000 to the present are included.
