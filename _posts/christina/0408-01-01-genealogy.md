@@ -6,9 +6,9 @@ section: resources
 author: Christina
 layout: post
 title: Genealogy
-audience: ""
-keywords: ""
-goals: ""
+audience: adults
+keywords: " ancestry, genealogy, family history, family trees, origins, relatives, descendants, ancestors, roots, heritage "
+goals: genealogy research
 actions: ""
 published: true
 ---
@@ -69,4 +69,3 @@ You can find and share information about Chicago history here. This is a project
 **RootsWeb: Illinois**
 
 Find Illinois resources including museums, libraries, archives, cemetery records and more.
-
