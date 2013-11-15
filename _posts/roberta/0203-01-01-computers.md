@@ -1,11 +1,15 @@
 ---
+categories: 
+  - visit
+  - roberta
+section: visit
+author: Roberta
 layout: post
 title: Computers
-author: Roberta
-section: visit
-categories: [visit, roberta]
-audience: ""
-keywords: ""
+audience: library patron
+keywords: "public computers, "
 goals: ""
 actions: ""
+published: true
 ---
+
