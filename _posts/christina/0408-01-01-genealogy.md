@@ -13,9 +13,10 @@ actions: ""
 published: true
 ---
 
+
 ##  SUBSCRIPTION DATABASES - DPPL library card required from home.
 
-**General**
+**These sites are great jumping-off points for new or seasoned genealogists. You get results from multiple databases in a single search. Read our GENEALOGY GUIDE for more tips on how to do genealogy research.**
 
 ### Ancestry Library Edition
 Get access to billions of genealogy records from the U.S. and around the world. In Library only.
@@ -26,7 +27,7 @@ Explore local histories, mine census data and search thousands of other records 
 ### World Vital Records
 Find your ancestors in this huge collection of family trees and family history records. Search the censuses from 1790-1949 as well as military, birth, death and marriage records.
 
-**Newspapers/Obituaries**
+**Find more ancestors to add to your family tree when you search for obituaries and newspaper articles in these databases.**
 
 ### America's Obituaries and Death Notices
 Find newspaper obituaries and death notices from newspapers across the country.  Chicago Tribune obituaries are in Chicago Tribune from ProQuest.
@@ -51,7 +52,7 @@ Check out this fabulous collection of local newspapers, photographs, letters, po
 ### Des Plaines Telephone Directories
 Track down your relatives and ancestors who lived in Des Plaines and neighboring communities. In library only.
 
-## FREE WEB SITES
+## OUR FAVORITE WEB SITES FOR GENEALOGY
 
 **General**
 
