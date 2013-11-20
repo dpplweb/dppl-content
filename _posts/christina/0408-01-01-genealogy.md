@@ -13,15 +13,14 @@ actions: ""
 published: true
 ---
 
-
 ##  SUBSCRIPTION DATABASES - DPPL library card required from home.
 
 ### General Sites
 
-**These sites are great jumping-off points for new or seasoned genealogists. You get results from multiple databases in a single search. Read our GENEALOGY GUIDE for more tips on how to do genealogy research.**
+**These sites are great jumping-off points for new or seasoned genealogists. You get results from multiple databases in a single search. Read our GENEALOGY GUIDE [link to file in AS Drive - PDF flyers] for more tips on how to do genealogy research.**
 
 ### Ancestry Library Edition
-Get access to billions of genealogy records from the U.S. and around the world. In Library only.
+Search billions of genealogy records from the U.S. and around the world.  This is the library version of Ancestry.com. In Library only.
 
 ### Heritage Quest Online
 Explore local histories, mine census data and search thousands of other records to find your ancestors and build your family tree.
@@ -49,6 +48,7 @@ Find obituaries from 1849-1989 with the easy-to-use obituary search box.
 Obituaries from Atlanta Constitution (1868-1922), Boston Globe (1872-1922), Chicago Defender (1921- 1975), Chicago Tribune (1852-1984), Los Angeles Times (1881-1984), New York Times (1851-1994) and Washington Post (1877-1950).
 
 **Local - Des Plaines**
+If you have ancestors who lived in Des Plaines, these resouces may help you find out more about them and link you to more family members.
 
 ### Des Plaines Memory
 Check out this fabulous collection of local newspapers, photographs, letters, postcards and more, all detailing Des Plaines' rich history. Join the many who have found their relatives in these images. In library only.
