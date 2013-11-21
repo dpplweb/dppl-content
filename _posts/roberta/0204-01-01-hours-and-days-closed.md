@@ -13,7 +13,7 @@ actions: none
 published: true
 ---
 
-The library will be closed or open one hour late on the following days in 2014:
+The library will be closed or open one hour late on the following days in 2014. Remember, [the library catalog](http://dppl.bibliocommons.com/), [calendar of events](http://calendar.dppl.org/evanced/lib/eventcalendar.asp), and other [online resources](http://dppl.org/edppl/) are available around the clock!
 
 - Wednesday, January 1, 2014    _New Year’s Day_
      
