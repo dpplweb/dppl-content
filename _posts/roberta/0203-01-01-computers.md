@@ -26,13 +26,21 @@ We want to help you get online. Bring your DPPL library card or a card from your
 
 - The fourth floor computers are for adults and older teens.
 
+- The fourth floor also has scanners to scan, email or save pictures and documents to a flash drive.
+
 - Laptops are available for teens with proper ID to check out and use in the Teen Lounge.
 
 - Printing costs ten cents a page for black and white, fifty cents a page for color.
 
 - You can print from the wifi system too, for the same cost. 
 
-- Your DPPL library card is also a copy and print card. Ask the IT staff for help.
+- Your DPPL library card is also a copy and print card. Ask the IT staff for help if you don't have a DPPL card.
+
+###What Other Technology Do We Offer?
+
+We have tablets, ereaders, and other digital devices for you to use in the library and to take home. Ask at the third floor [Readers' Services Desk](mailto:readersservicesdesk@dppl.org) for more information (847-376-2840).
+
+
 
 
 
