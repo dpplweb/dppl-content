@@ -50,4 +50,4 @@ You can use your card to check out as many items as you want. You can also use y
 
 ##Need to Know More?
 
-You can call the first floor registration desk at 847-376-2788 with questions about using your library card, or email our Help Line. Here's a list of what we have in our collection and for how long you can check it out. Remember, our online catalog is available 24 hours a day!
+You can call the first floor registration desk at 847-376-2788 with questions about using your library card, or [email our Help Line](help email or contact page). Here's a [list of what we have in our collection](link to loan policies) and for how long you can check it out. Remember, [our online catalog](link to MyCatalog)is available 24 hours a day!
