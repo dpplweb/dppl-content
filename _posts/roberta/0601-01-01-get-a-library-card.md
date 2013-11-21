@@ -38,7 +38,7 @@ You can use your card to check out as many items as you want. You can also use y
 
 - [create an online account](link to MyCatalog) to renew your items, place holds and keep track of what you check out
 
-- check out an e-reader or tablet to take home
+- check out an e-reader or tablet to take home (ask at the third floor information desk for more details)
 
 - sign up for a public computer
 
