@@ -16,6 +16,8 @@ published: true
 We work with many local organizations to provide great programs and services. We'd love to work with your organization too! Please [contact Roberta Johnson](mailto:rjohnson@dppl.org) if you want to know more about funding a program here at the library. Here are some of our community partnerships:
 
 
+- The Friends of the Des Plaines Public Library have been faithful and prolific fundraisers for more than fifty years, supporting programming for all ages and making generous gifts like our meeting room sound system, our new piano, and other major donations. Please consider joining our Friends group or visiting their regular book sales!
+
 - The Des Plaines Park District works with us to bring storytelling and other activities to their seasonal festivals and in turn supports our annual Battle of the Bands and Des Arts fine art programming.
 
 
