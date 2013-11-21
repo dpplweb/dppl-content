@@ -31,5 +31,5 @@ We work with many local organizations to provide great programs and services. We
 
 - The Kiwanis Club of Des Plaines is a proud financial supporter of the second floor Early Learning Center (construction beginning in 2014).
 
-
+Thanks to these organizations and **all** the individuals that help us be the best library we can possibly be.
 
