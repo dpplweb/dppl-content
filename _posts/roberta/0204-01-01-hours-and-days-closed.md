@@ -6,10 +6,10 @@ section: visit
 author: Roberta
 layout: post
 title: "Hours & days closed"
-audience: ""
-keywords: ""
+audience: resident
+keywords: closing dates
 goals: ""
-actions: ""
+actions: none
 published: true
 ---
 
@@ -25,7 +25,7 @@ The library will be closed or open one hour late on the following days in 2014:
       
 - Monday, May 26, 2014 _Memorial Day_
       
--  Wednesday, June 4, 2014 _10 a.m. Opening for All Staff Meeting_
+- Wednesday, June 4, 2014 _10 a.m. Opening for All Staff Meeting_
      
 -  Friday, July 4, 2014 _Independence Day_ (Look for us in the 4th of July parade!)
      
