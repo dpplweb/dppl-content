@@ -15,7 +15,7 @@ published: true
 
 ##Using a Computer at the Library
 
-We want to help you get online. Bring your DPPL library card or a card from your home library and you can sign yourself up for a one hour session. You can also use our wifi throughout the building. We also offer a variety of [computer classes](computer class calendar) for both beginning and more advanced learners.
+We want to help you get online. Bring your DPPL library card or a card from your home library and you can sign yourself up for a one hour session. You can also use our wifi throughout the building. We also offer a variety of [computer classes](http://dppl.org/events-programs/computer_classes.shtml) for both beginning and more advanced learners.
 
 ###What You Need to Know
 
@@ -25,7 +25,7 @@ We want to help you get online. Bring your DPPL library card or a card from your
 
 - The fourth floor also has scanners to scan, email or save pictures and documents to a flash drive.
 
-- Laptops are available for teens with proper ID to check out and use in the Teen Lounge.
+- Laptops are available for teens with proper ID to check out and use in the third floor Teen Lounge.
 
 - Printing costs ten cents a page for black and white, fifty cents a page for color.
 
