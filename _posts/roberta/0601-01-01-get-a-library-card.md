@@ -29,22 +29,22 @@ Other Rosemont residents who live south of Devon Avenue should contact the Schil
 
 ###Do You Own a Business in Des Plaines?
 
-If you own a business in incorporated Des Plaines, we can give you a company library card that is good for **one year**, with all the borrowing privileges of a resident card. We have many materials, programs and ideas to support your business, and most of our online resources can be accessed with your card from work or from home.
+If you own a business in incorporated Des Plaines, we can give you a company library card that is good for **one year**, with all the borrowing privileges of a resident card. We have many materials, programs and ideas to support your business, and most of our [online resources](link to business databases) can be accessed with your card from work or from home.
 
 
 ##Using Your New Library Card
 
 You can use your card to check out as many items as you want. You can also use your card to:
 
-- create an online account to renew your items, place holds and keep track of what you check out
+- [create an online account](link to MyCatalog) to renew your items, place holds and keep track of what you check out
 
 - check out an e-reader or tablet to take home
 
 - sign up for a public computer
 
-- access our online resources from home
+- [access our online resources](link to dbases by subject) from home
 
-- download books, audiobooks and music
+- [download books, audiobooks and music](link to eDPPL)
 
 - borrow items that we don't own from other libraries
 
