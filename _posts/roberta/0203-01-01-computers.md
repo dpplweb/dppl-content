@@ -22,7 +22,7 @@ We want to help you get online. Bring your DPPL library card or a card from your
 
 ###What You Need to Know
 
-- The second floor computers are only for children under 14 or parents working with small children. 
+- The second floor computers are only for children under 14 or parents helping small children. 
 
 - The fourth floor computers are for adults and older teens.
 
