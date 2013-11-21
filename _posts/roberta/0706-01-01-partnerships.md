@@ -27,9 +27,10 @@ We work with many local organizations to provide great programs and services. We
 
 - The Rotary Club of Des Plaines funded the beautiful Rotary Heritage Reading Room on the third floor, as well as other individual programs.
 
+- Local schools encourage their students to get and use library cards, bring parents and kids on tours of the library, and promote our family programs in their emails and newsletters.
+
 - Oakton Community College is our longtime partner in providing adult literacy, computer instruction and special storytimes to Spanish speakers in the library.
 
 - The Kiwanis Club of Des Plaines is a proud financial supporter of the second floor Early Learning Center (construction beginning in 2014).
 
 Thanks to these organizations and **all** the individuals that help us be the best library we can possibly be.
-
