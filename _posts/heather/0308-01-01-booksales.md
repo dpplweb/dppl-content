@@ -18,10 +18,12 @@ published: true
 ##The Friends of the Des Plaines Public Library sponsor three yearly used book sales and maintain an ongoing bookshelf located on the first floor, offering used books and magazines for sale throughout the year.  
 
 ##Upcoming Friends Booksales
+
+- Holiday Book Sale:  Saturday December 7, 2013
+- Spring Book Sale:  Friday April 4 - Sunday April 5, 2014
+- Fall Book Sale:  Friday September 26 - Sunday September 28, 2014
+
 [INSERT LATEST BOOKSALE FLIER HERE]
-Holiday Book Sale:  Saturday December 7, 2013
-Spring Book Sale:  Friday April 4 - Sunday April 5, 2014
-Fall Book Sale:  Friday September 26 - Sunday September 28, 2014 
 
 ##Booksale Volunteers Needed
 The Freinds need volunteers to help setup for Booksales on the Wednesdays and Thursday mornings prior to all sales. If you are able to work for two or three hours please call 847-376-2922 and leave your name and phone number. You will be contacted by Ralph or Mary. You must be a current member to volunteer. ****
