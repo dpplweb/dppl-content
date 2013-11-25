@@ -6,14 +6,12 @@ section: calendar
 author: Heather
 layout: post
 title: Booksales
-audience: ""
-keywords: ""
-goals: ""
-actions: ""
+audience: "booksale attendees "
+keywords: "Booksale, Friends of the Library "
+goals: "info on booksales "
+actions: "join friends, attend book sale"
 published: true
 ---
-
-
 
 ##The Friends of the Des Plaines Public Library sponsor three yearly used book sales and maintain an ongoing bookshelf located on the first floor, offering used books and magazines for sale throughout the year.  
 
