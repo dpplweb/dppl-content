@@ -6,10 +6,10 @@ section: "support-the-library"
 author: Heather
 layout: post
 title: Friends of the Library
-audience: ""
-keywords: ""
-goals: ""
-actions: ""
+audience: "folks interested in joining the friends "
+keywords: "friends of the library, booksale "
+goals: "how to join, what they do"
+actions: "join the friends "
 published: true
 ---
 
@@ -71,4 +71,3 @@ Sue D’Hondt, Jan Geist & others
 ###Library Review Book Club
 Sign up now to participate in the Friends-sponsored _**Literary Review Book Club**_. A limited number of memberships are available for the 2013-2014 series of luncheons/reviews. For more information please call Jeanette at 847-635-6780. 
 Click here to download more information about the Literary Review Book Club. [LINK TO PDF]
-
