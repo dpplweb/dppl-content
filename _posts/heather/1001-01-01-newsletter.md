@@ -6,10 +6,10 @@ section: newsletter
 author: Heather
 layout: post
 title: Newsletter
-audience: ""
-keywords: ""
-goals: ""
-actions: ""
+audience: "people interested in library events and offerings "
+keywords: "enewsletter, eforward, events "
+goals: "info on upcoming events "
+actions: "view newsletter, click through to register"
 published: true
 ---
 
