@@ -17,7 +17,8 @@ published: true
 
 ###Who are the Des Plaines Friends of the Library? 
 We are your neighbors! Founded in 1954, Des Plaines Friends of the Library is a not-for-profit 501c3 organization that raises funds to provide gifts (programs, materials, equipment, and artwork) for the library. The Friends sponsor three yearly used book sales and maintain an ongoing bookshelf located on the first floor, offering used books and magazines for sale throughout the year.  
-Book Sale Information [LINK TO BOOK SALE PAGE]
+
+**Book Sale Information**[LINK TO BOOK SALE PAGE]
 
 ###What Do the Friends Support? 
 All during the year, the funds raided by the Friends via book sales and dues support a wide range of library programs designed to appeal to diverse communities in Des Plaines. Toddlers, grade-schoolers, teens, adults and people with special needs benefit from these activities that are made possible by the Friends’ book sales. Friends-supported activities include:
@@ -66,3 +67,8 @@ Debra Sus
 Ralph & Mary Minnis
 **Ongoing Bookshelf**
 Sue D’Hondt, Jan Geist & others 
+
+###Library Review Book Club
+Sign up now to participate in the Friends-sponsored _**Literary Review Book Club**_. A limited number of memberships are available for the 2013-2014 series of luncheons/reviews. For more information please call Jeanette at 847-635-6780. 
+Click here to download more information about the Literary Review Book Club. [LINK TO PDF]
+
