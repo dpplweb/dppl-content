@@ -6,17 +6,17 @@ section: "support-the-library"
 author: Heather
 layout: post
 title: Support the library
-audience: ""
-keywords: ""
-goals: ""
-actions: ""
+audience: "potential donors "
+keywords: "support, donate, contribution "
+goals: how to donate
+actions: "donate "
 published: true
 ---
 
-If you are looking to make a contribution to your Library, we have some suggestions.
+_If you are looking to make a contribution to your Library, we have some suggestions._
 
 ## Make a charitable contribution. 
-Contributions will go into the Des Plaines Public Library Fund to fund many valuable library resources for the people of Des Plaines to enjoy. Just a few of special resources funded by donations at the library:
+Contributions will go into the Des Plaines Public Library Fund to underwrite many valuable library resources for the people of Des Plaines to enjoy. Just a few of special resources funded by donations at the library:
 
 - Atrium Sculpture
 
