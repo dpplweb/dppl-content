@@ -13,10 +13,9 @@ actions: ""
 published: true
 ---
 
-
 ## DPPL volunteer positions are all ongoing positions. We ask that volunteers commit to a minimum of 3 months of volunteer service.
 
-**Applications are currently being accepted only for the specific volunteer positions listed below:**
+Applications are currently being accepted only for the specific volunteer positions listed below:
 
 **PickList Volunteer**
 
@@ -29,3 +28,6 @@ Print the application now [LINK TO APPLICATION] or visit the Information Desk on
 **DPPL does not offer community service(court mandated)volunteer positions at the library.** You will find a list of other organizations in Des Plaines looking for volunteers here. [LINK TO OTHER PLACES TO VOLUNTEER DOC]
 
 Des Plaines Patch has recommendations for area organizations that take volunteers a here.[LINK TO PATCH]
+
+### Teens
+Teens can earn community service hours by joining our Teen Advisory Board.
