@@ -26,7 +26,7 @@ published: true
 [INSERT LATEST BOOKSALE FLIER HERE]
 
 ##Booksale Volunteers Needed
-The Freinds need volunteers to help setup for Booksales on the Wednesdays and Thursday mornings prior to all sales. If you are able to work for two or three hours please call 847-376-2922 and leave your name and phone number. You will be contacted by Ralph or Mary. You must be a current member to volunteer. ****
+The Friends need volunteers to help set up for Booksales on the Wednesdays and Thursday mornings prior to all sales. If you are able to work for two or three hours please call 847-376-2922 and leave your name and phone number. You will be contacted by Ralph or Mary. You must be a current member to volunteer. ****
 
 ##Book Donations Needed
 The Friends are accepting books for the upcoming sale. Please bring your donations to the library to help make the booksales a success. 
