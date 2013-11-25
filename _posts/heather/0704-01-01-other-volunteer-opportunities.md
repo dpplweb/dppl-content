@@ -6,10 +6,10 @@ section: "support-the-library"
 author: Heather
 layout: post
 title: Volunteer at the Library
-audience: ""
-keywords: ""
-goals: ""
-actions: ""
+audience: "potential volunteers "
+keywords: "volunteer opportunties "
+goals: "what is available, how to apply "
+actions: "view openings, download application"
 published: true
 ---
 
