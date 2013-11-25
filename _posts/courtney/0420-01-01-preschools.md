@@ -14,7 +14,7 @@ published: true
 ---
 
 ## Preschools
-There are many preschool options available to parents in the Des Plaines area, below you will find a list of the preschools and daycares in town.  Looking for more information or more options?  Visit our annual Preschool Fair for Parents.
+There are many preschool options available to parents in the Des Plaines area, below you will find a list of the preschools and daycares in town.  Looking for more information or more options?  Visit our [Preschool Fair for Parents](preschool fair page), held each year in January.
 
 ### [Angel Town](http://akarrasel.com/1920.html)
 1920 E. Touhy Avenue
