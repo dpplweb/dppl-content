@@ -21,10 +21,12 @@ These directories will help you locate and connect with agencies and services in
 
 
 ### Complete Directory for Pediatric Disorders
+Medical information, resources and support services for pediatric disorders.
 
 ### Complete Directory for People with Disabilities
 
 ### Encyclopedia of Associations
+Detailed information on international, national, state and local organizations.
 
 ### National Directory of Nonprofit Organizations
 Contact information and more for foundations, scholarships, research centers, religious groups, hospitals and other organizations.
