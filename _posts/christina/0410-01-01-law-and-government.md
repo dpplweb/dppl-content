@@ -31,7 +31,7 @@ This is an excellent source for statistics on the social, political, and economi
  
 **### Our Favorite Web Sites**
 
-These are useful sites to help you stay informed on important issues.
+These are useful sites to help you learn about your elected officials and stay informed on important issues.
 
 **### Voter Information**
 
