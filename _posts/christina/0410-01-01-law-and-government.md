@@ -6,8 +6,8 @@ section: resources
 author: Christina
 layout: post
 title: Law and government
-audience: ""
-keywords: ""
+audience: "adults, teenagers"
+keywords: "law, legal, statistics, voting, voters, elections, politics, politicians, polling place"
 goals: ""
 actions: ""
 published: true
@@ -23,15 +23,15 @@ This is a collection of ebooks on law, government and political theory.
 
 ### Lexis Library Express
 
-This database includes state, federal and landmark courtcases as well as state statutes. It also includes law review articles. Legal sources only available at the library.
+This database includes state, federal and landmark courtcases as well as state statutes. It also includes law review articles and other sources for doing legal resarch. Legal sources only available at the library.
 
 ### Statistical Abstract of the United States
 
-Find statistics on the social, political, and economic conditions of the United States. Updated monthly.
+This is an excellent source for statistics on the social, political, and economic conditions of the United States. New data is added monthly.
  
 **### Our Favorite Web Sites**
 
-These are useful sites to help you stay informed on the important issues/
+These are useful sites to help you stay informed on important issues.
 
 **### Voter Information**
 
