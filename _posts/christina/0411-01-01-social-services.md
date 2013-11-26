@@ -13,9 +13,11 @@ actions: ""
 published: true
 ---
 
-These directories will help you locate and connect with agencies and services in your community and beyond.
+## SUBSCRIPTION DATABASES - DPPL library card required from home.
 
-### **Subscription Databases**- Enter your DPPL card number outside the library.
+### Directories
+
+These directories will help you locate and connect with agencies and services in your community and beyond.
 
 
 ### Complete Directory for Pediatric Disorders
@@ -29,7 +31,7 @@ These directories will help you locate and connect with agencies and services in
 ### Older Americans Information Directory
 
 
-**### Useful Web sites**
+###  Useful Web sites
 
 ### Maine Township Agency Directory
 
