@@ -27,10 +27,10 @@ These directories will help you locate and connect with agencies and services in
 ### Encyclopedia of Associations
 
 ### National Directory of Nonprofit Organizations
-Contact information for foundations, scholarships, research centers, religious organizations, hospitals and more.
+Contact information and more for foundations, scholarships, research centers, religious groups, hospitals and other organizations.
 
 ### Older Americans Information Directory
-
+Information on assisted living centers. disability aids, legal resources, continuing education and more.
 
 ## USEFUL WEB SITES
 
