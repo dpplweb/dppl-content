@@ -24,6 +24,7 @@ These directories will help you locate and connect with agencies and services in
 Medical information, resources and support services for pediatric disorders.
 
 ### Complete Directory for People with Disabilities
+This directory covers a wide range of disabilities. Its focus is on helping people find ways to succeed at work, in school, and in their community.
 
 ### Encyclopedia of Associations
 Detailed information on international, national, state and local organizations.
