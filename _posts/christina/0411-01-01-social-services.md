@@ -6,8 +6,8 @@ section: resources
 author: Christina
 layout: post
 title: Social services
-audience: ""
-keywords: ""
+audience: adults
+keywords: "social services, government agency, help, health, financial aid, disorders, medical assistance, financial assistance, mental health"
 goals: ""
 actions: ""
 published: true
