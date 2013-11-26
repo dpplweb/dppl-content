@@ -27,6 +27,7 @@ These directories will help you locate and connect with agencies and services in
 ### Encyclopedia of Associations
 
 ### National Directory of Nonprofit Organizations
+Contact information for foundations, scholarships, research centers, religious organizations, hospitals and more.
 
 ### Older Americans Information Directory
 
