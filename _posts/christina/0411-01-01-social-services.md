@@ -15,8 +15,20 @@ published: true
 
 These directories will help you locate and connect with agencies and services in your community and beyond.
 
+### **Subscription Databases**- Enter your DPPL card number outside the library.
+
+### Complete Directory for Pediatric Disorders
+
+### Complete Directory for People with Disabilities
+
+### Encyclopedia of Associations
+
+### National Directory of Nonprofit Organizations
+
+### Older Americans Information Directory
 
 
+**### Useful Web sites**
 
 ### Maine Township Agency Directory
 
