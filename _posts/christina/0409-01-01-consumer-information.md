@@ -49,7 +49,7 @@ Consumer information from the federal government.
 ### Consumer Web sites
  
 ### Coupons
-There are lots of coupon sites on the Web. We've listed a few:
+There are lots of sites for printable coupons on the Web. We've listed a few:
  
 [CouponMom.com](http://www.couponmom.com/) 
 Lists of grocery deals and coupons updated weekly. 
