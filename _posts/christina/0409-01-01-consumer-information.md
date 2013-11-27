@@ -38,13 +38,13 @@ Allows you to compare, sort and rank top rated U.S. cities by different criteria
  
 ### Consumer Protection
 
-### [[The Better Business Bureau](http://www.bbb.org/)
+### [The Better Business Bureau](http://www.bbb.org/)
 
 Check out a business or charity or file a complaint at this site.
 
 ### Consumer.gov
-Consumer information from the federal government. 
 
+Information from the federal government on loans, credit, identity theft and scams. 
 
 ### Web sites for Consumers
  
