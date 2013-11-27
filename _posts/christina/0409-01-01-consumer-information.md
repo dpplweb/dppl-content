@@ -36,3 +36,24 @@ These guides offer detailed information on specific topics.
 
 Allows you to compare, sort and rank top rated U.S. cities by different criteria including education, income and ethnicity. Also available in print.
  
+### Information from the U.S. Government
+
+[[The Better Business Bureau](http://www.bbb.org/)
+
+Check out a business or charity or file a complaint at this site.
+
+Consumer.gov  
+Consumer information from the federal government. 
+
+
+### Consumer Web sites
+ 
+### Coupons
+There are lots of coupon sites on the Web. We've listed a few:
+ 
+[CouponMom.com](http://www.couponmom.com/) 
+Lists of grocery deals and coupons updated weekly. 
+
+[Coupons.com](http://www.coupons.com/) 
+Printable coupons and coupon codes for grocery and retail products. 
+
