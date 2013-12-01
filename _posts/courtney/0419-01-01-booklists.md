@@ -15,7 +15,7 @@ published: true
 
 As a parent, you know your child best.  Getting them to read can be tricky, but it is easier when you pick books that are about their intersts or the type of books they like.
 
-To help you find picture books, we assembled lists by subject:
+To help you find picture books, we created lists by subject:
 - [Adoption](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98018926_dppl_picture_books_adoption)
 - [Bedtime](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98073851_dppl_picture_books_bedtime)
 - [Birthdays](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98075443_dppl_picture_books_birthdays)
@@ -62,5 +62,21 @@ State of Illinois' Awards include the Monarch Award for Kindergarten to 3rd grad
 - Abraham Lincoln Award Nominees 2013-2014
 - Abraham Lincoln Award Winners
 
-National Awards include the Caldecott Award for excellence in illustrations, the Newberry Award for excellence in literature, 
-    
+National Awards vary in purpose, from excellence in illustration to books that honor the best and brightest authors of specific heritages.  You can find more about each of these awards and their winners by clicking on the links below.
+
+The [Coretta Scott King Award](http://www.ala.org/awardsgrants/coretta-scott-king-book-awards) is presented annually to African American authors and illustrators whose books promote an understanding and appreciation of the “American Dream.” 
+
+The [John Newberry Award](http://www.ala.org/awardsgrants/john-newbery-medal-2) is awarded annually to the author of the most distinguished contribution to American literature for children.
+
+The [Laura Ingalls Wilder Award](http://www.ala.org/awardsgrants/laura-ingalls-wilder-award) is awarded every two years to an author or illustrator whose books have made a lasting contribution to children’s literature.
+
+The [Michael L. Printz Award](http://www.ala.org/awardsgrants/michael-l-printz-award) is an award given to a book that exemplifies literary excellence in young adult literature.
+
+The [Odyssey Award](http://www.ala.org/awardsgrants/odyssey-award-excellence-audiobook-production) honors the best audiobook produced for children and/or young adults.
+
+The [Pura Belpre Award](http://www.ala.org/awardsgrants/pura-belpre-award) honors Latino writers and illustrators whose works best exemplify authentic cultural experiences in children's works of literature.
+
+The [Randolph Caldecott Medal](http://www.ala.org/awardsgrants/randolph-caldecott-medal-1) is awarded annually to the artist of the most distinguished American picture book for children.
+
+The [Theordore Geisel Seuss Award](http://www.ala.org/awardsgrants/theodor-seuss-geisel-award) is given annually to the author(s) and illustrator(s) of the most distinguished contribution to beginning reader books published in the United States during the preceding year.
+
