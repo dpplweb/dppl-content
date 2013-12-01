@@ -13,10 +13,11 @@ actions: ""
 published: true
 ---
 
-As a parent, you know your child best.  Getting them to read can be tricky, but it is easier when you pick books that are about their intersts or the type of books they like.
+As a parent, you know your child best.  Getting them to read can be tricky, but it is easier when you pick books that are about their intersts or the type of books they like. Most of the links below will take you directly to the catalog, where you can read summaries and reviews or place a hold on any materials you want.
 
-To help you find picture books, we created lists by subject:
-- [Adoption](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98018926_dppl_picture_books_adoption)
+**To help you find picture books, we created lists by subject:**
+
+[Adoption](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98018926_dppl_picture_books_adoption)
 - [Bedtime](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98073851_dppl_picture_books_bedtime)
 - [Birthdays](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98075443_dppl_picture_books_birthdays)
 - [Community Heroes](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98077431_dppl_picture_books_community_heroes)
@@ -37,11 +38,12 @@ To help you find picture books, we created lists by subject:
 - [Visiting the Doctor](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98078845_dppl_picture_books_visiting_the_doctor)
 - [Wild West](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/200801053_dppl_picture_books_wild_west)
 
-For children of all ages, we have created lists of books by age group.
-- [Infants and Toddlers](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98012866_dppl_good_books_for_infants_and_toddlers)
+**For children of all ages, we have created lists of books by age group.**
+
+[Infants and Toddlers](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98012866_dppl_good_books_for_infants_and_toddlers)
 - [Preschool](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98012924_dppl_good_books_for_preschool)
 - [Kindergarten and 1st Grade](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/98012862_dppl_good_books_for_kindergarten1st_grade)
-- 1st and 2nd Grades
+- [1st and 2nd Grades](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/197927933_dppl_good_books_for_1st_2nd_gradeshttp://dppl.bibliocommons.com/list/show/97984016_dppl_ys/197927933_dppl_good_books_for_1st_2nd_grades)
 - 2nd and 3rd Grades
 - 3rd and 4th Grades
 - 4th and 5th Grades
@@ -49,14 +51,14 @@ For children of all ages, we have created lists of books by age group.
 - 7th and 8th Grades
 
 
-Another way to find great books is to look to the state and national book awards.  
+**Another way to find great books is to look to the state and national book awards.**  
 
-State of Illinois' Awards include the Monarch Award for Kindergarten to 3rd grade, the Bluestem Award for 3rd to 5th grades, the Caudill Award for 4th to 8th grades, and the Abraham Lincoln Award for high school literature.
+State of Illinois' Awards include the [Monarch Award](http://www.islma.org/monarch.htm) for Kindergarten to 3rd grade, the [Bluestem Award](http://www.islma.org/Bluestem.htm) for 3rd to 5th grades, the [ReCaudill Award](http://www.rcyrba.org/) for 4th to 8th grades, and the [Abraham Lincoln Award](http://www.islma.org/lincoln.htm) for high school literature.
 
 - Monarch Award Nominees 2013-2014
-- Monarch Award Winners
+- [Monarch Award Winners](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/217284105_monarch_winners)
 - Bluestem Award Nominees 2013-2014
-- Bluestem Award Winners
+- [Bluestem Award Winners](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/217289916_bluestem_award_winners)
 - Caudill Award Nominees 2013-2014
 - Caudill Award Winners
 - Abraham Lincoln Award Nominees 2013-2014
@@ -68,7 +70,7 @@ The [Coretta Scott King Award](http://www.ala.org/awardsgrants/coretta-scott-kin
 
 The [John Newberry Award](http://www.ala.org/awardsgrants/john-newbery-medal-2) is awarded annually to the author of the most distinguished contribution to American literature for children.
 
-The [Laura Ingalls Wilder Award](http://www.ala.org/awardsgrants/laura-ingalls-wilder-award) is awarded every two years to an author or illustrator whose books have made a lasting contribution to children’s literature.
+The [Laura Ingalls Wilder Medal](http://www.ala.org/awardsgrants/laura-ingalls-wilder-award) is awarded every two years to an author or illustrator whose books have made a lasting contribution to children’s literature.
 
 The [Michael L. Printz Award](http://www.ala.org/awardsgrants/michael-l-printz-award) is an award given to a book that exemplifies literary excellence in young adult literature.
 
