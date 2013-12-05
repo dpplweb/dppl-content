@@ -13,7 +13,11 @@ actions: Go to MyMediaMall
 published: true
 ---
 
-It's 9:30 at night and you want a book. The library's closed. What can you do?
+Parents: Shopping at the grocery store with your kid and need to keep them entertained?
+
+Kids: It's 9:30 at night and you want a book. The library's closed. What can you do?
+
+The library has several different options whatever your age or need.
 
 ## Checkout Digital Books and Audiobooks
 
@@ -30,7 +34,4 @@ Click on [MyMediaMall](http://www.mymediamall.net/54B63257-767F-46EA-B648-E1895F
 If you have a digital device like a smartphone or tablet, search for the Overdrive app. Download (it's **free**!) and start using it to find e-materials.
 
 ###Traditional e-reader	
-If you have a traditional e-reader, it's slightly more complicated but easy once you get the hang of it. Click on [MyMediaMall](http://www.mymediamall.net/54B63257-767F-46EA-B648-E1895F4E2321/10/50/en/Default.htm) and follow their directions (check out the Help section) about downloading **free** software to transfer titles to your device. 
-
-
-
+If you have a traditional e-reader, it's slightly more complicated but easy once you get the hang of it. Click on [MyMediaMall](http://www.mymediamall.net/54B63257-767F-46EA-B648-E1895F4E2321/10/50/en/Default.htm) and follow their directions (check out the Help section) about downloading **free** software to transfer titles to your device.
