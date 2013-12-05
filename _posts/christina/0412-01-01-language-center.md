@@ -22,4 +22,4 @@ Mango offers a variety of fun ways to help you learn another language, including
 
 ### Our Favorite Web sites for Language Learning
 
-There are lots of resources online to help you learn other languages including English, 
+
