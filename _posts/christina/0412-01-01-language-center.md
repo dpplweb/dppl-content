@@ -14,7 +14,11 @@ published: true
 ---
 
 ##  SUBSCRIPTION DATABASES - DPPL library card required from home.
-You can get help learning languages, including English, using our subscription database or a variety of free Web sites listed below.
+You can get help learning languages, including English, using our subscription databases or a variety of free Web sites listed below.
+
+### Library PressDisplay
+
+Reading a newspaper in another language is a great way to learn vocabulary and common usage. LPD also has a feature that reads an article to you - this can help develop your listening comprehension skills. Current newspapers in several languages are presented in full-page format with photographs, advertisements, crossword puzzles and cartoons.
 
 ### Mango Languages 
 
