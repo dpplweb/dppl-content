@@ -43,14 +43,10 @@ Cards for Hospitalized Kids happens one Saturday a month from 1-3pm (but you can
 
 Volunteering is personal. Sure, you might have to volunteer because your parent is telling you to, but you'll get more out of it and have more fun if it's something you care about. Cleaning and organizing are not for everyone--I'm not offended if you don't sign up! Click on the link below to take you to a list of other Des Plaines area organizations who will need your help too. 
 
-LINK HERE
+[LINK HERE](link to other volunteer opportunities)
 
 ###I Need Court Manadated Service Hours
 
 I'm sorry, but the library can't help you earn court manadated service hours. Please check out the link below to find organizations you can fulfill your time with.
 
-LINK HERE
-
-
-
-
+[LINK HERE](link to other volunteer opportunities)
