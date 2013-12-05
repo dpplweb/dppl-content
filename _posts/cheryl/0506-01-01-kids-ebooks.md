@@ -1,11 +1,36 @@
 ---
-layout: post
-title: Kids' ebooks
+categories: 
+  - "books-movies-music"
+  - cheryl
+section: "books-movies-music"
 author: Cheryl
-section: books-movies-music
-categories: [books-movies-music, cheryl]
-audience: ""
-keywords: ""
-goals: ""
-actions: ""
+layout: post
+title: "Kids' ebooks"
+audience: "adults, older kids"
+keywords: "e-books, digital, audiobooks"
+goals: "Find out where to go to get e-books"
+actions: Go to MyMediaMall
+published: true
 ---
+
+It's 9:30 at night and you want a book. The library's closed. What can you do?
+
+## Checkout Digital Books and Audiobooks
+
+You might think e-books are only for adults, but there are tons of titles available for kids. Rick Riordan books? We've got that. _Fancy Nancy_? Ditto. _Divergent_? Yup! Titles like these are a click away on either your computer or your digital device (smartphone, tablet, e-reader). 
+
+##How Do I Get Started?
+
+Digital books and audiobooks are just like regular books. Think of the website we use, MyMediaMall, as another kind of library. You can look around, create a wish list of titles to get in the future, check out books, and put things on hold. This is just another way of getting things you want.
+
+###On your computer
+Click on [MyMediaMall](http://www.mymediamall.net/54B63257-767F-46EA-B648-E1895F4E2321/10/50/en/Default.htm) to access the library's catalog of digital books and audiobooks. 
+
+###On your digital device
+If you have a digital device like a smartphone or tablet, search for the Overdrive app. Download (it's **free**!) and start using it to find e-materials.
+
+###Traditional e-reader	
+If you have a traditional e-reader, it's slightly more complicated but easy once you get the hang of it. Click on [MyMediaMall](http://www.mymediamall.net/54B63257-767F-46EA-B648-E1895F4E2321/10/50/en/Default.htm) and follow their directions (check out the Help section) about downloading **free** software to transfer titles to your device. 
+
+
+
