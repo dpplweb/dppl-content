@@ -14,7 +14,7 @@ published: true
 ---
 
 ##  SUBSCRIPTION DATABASES - DPPL library card required from home.
-You can get help learning languages, including English, using our subscription databases or a variety of free Web sites listed below.
+You can get help learning languages, including English, using our subscription databases or the free Web sites listed below.
 
 ### Library PressDisplay
 
@@ -30,5 +30,3 @@ Mango offers a variety of fun ways to help you learn another language, including
 
 
 ### ESL
-
-
