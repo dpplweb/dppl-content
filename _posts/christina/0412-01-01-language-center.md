@@ -18,7 +18,7 @@ You can get help learning languages, including English, using our subscription d
 
 ### Library PressDisplay
 
-Reading a newspaper in another language is a great way to learn vocabulary and common usage. This database also has a feature that reads an article to you - this can help develop your listening comprehension skills. Current newspapers in several languages are presented in full-page format with photographs, advertisements, crossword puzzles and cartoons.
+Reading a newspaper in another language is a great way to learn vocabulary and common usage. This database also has a feature that will read an article to you - this can help develop your listening comprehension skills. Current newspapers in several languages are presented in full-page format with photographs, advertisements, crossword puzzles and cartoons.
 
 ### Mango Languages 
 
