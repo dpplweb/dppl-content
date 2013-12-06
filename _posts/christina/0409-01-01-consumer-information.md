@@ -6,8 +6,8 @@ section: resources
 author: Christina
 layout: post
 title: Consumer information
-audience: ""
-keywords: ""
+audience: adults
+keywords: "consumer reports, consumer information, reviews, evaluation, product reviews"
 goals: ""
 actions: ""
 published: true
@@ -35,7 +35,11 @@ These guides offer detailed information on specific topics.
 ### America's Top-Rated Cities, 2012
 
 Allows you to compare, sort and rank top rated U.S. cities by different criteria including education, income and ethnicity. Also available in print.
- 
+
+### Older Americans Information Directory
+
+Up-to-date information on the social, health and financial issues facing older Americans as well as recreational and educational opportunities.
+
 ### Consumer Protection
 
 ### [The Better Business Bureau](http://www.bbb.org/)
