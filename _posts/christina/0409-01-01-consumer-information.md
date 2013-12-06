@@ -25,7 +25,7 @@ Free access to ConsumerReports.org. Find ratings and recommendations on applianc
 
 ### Consumers' Checkbook
 
-Consumer information for the home, cars, health, personal services and more. Includes Chicago Consumers' Checkbook. 
+This is a good source for local consumer information for the home, cars, health, personal services and more. Includes Chicago Consumers' Checkbook. 
 Please register with Consumers' Checkbook for home use.
 
 ### Specialized Guides
@@ -55,5 +55,4 @@ There are lots of sites for printable coupons on the Web. We've listed a few:
 Lists of grocery deals and coupons updated weekly. 
 
 [Coupons.com](http://www.coupons.com/) 
-Printable coupons and coupon codes for grocery and retail products. 
-
+Printable coupons and coupon codes for grocery and retail products.
