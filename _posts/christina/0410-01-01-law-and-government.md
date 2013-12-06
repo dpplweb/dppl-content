@@ -29,14 +29,30 @@ This database includes state, federal and landmark courtcases as well as state s
 
 This is an excellent source for statistics on the social, political, and economic conditions of the United States. New data is added monthly.
  
-**### Our Favorite Web Sites**
+### OUR FAVORITE WEB SITES
 
 These are useful sites to help you learn about your elected officials and stay informed on important issues.
 
-**### Voter Information**
-
-###Elected Officials  
+### Voter Information
 
 [Project Vote Smart](votesmart.org)
 
 Enter your zip code or home address to find your elected officials and other information for voters.
+
+[### VoterInfoNet](http://www.voterinfonet.com/)
+
+Cook County ballots and polling places. 
+
+[League of Women Voters](http://www.lwv.org)
+
+Voter information from nonpartisan political organization that works to influence public policy through citizen education and advocacy. 
+
+### Campaign Finance
+
+[Open Book - Illinois](http://www.openbook.illinoiscomptroller.com/)
+
+Comptroller's searchable database of state contracts and campaign contributions.
+ 
+[Opensecrets.org](http://www.opensecrets.org/)
+
+Nonpartisan site tracks money financing U.S. political campaigns. Includes donor lookup and election overviews. 
