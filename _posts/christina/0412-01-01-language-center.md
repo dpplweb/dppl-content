@@ -24,9 +24,19 @@ Reading a newspaper in another language is a great way to learn vocabulary and c
 
 Mango offers a variety of fun ways to help you learn another language, including videos. It even has a voice comparison feature that compares your pronunciation to a native speaker’s. Use it on your computer, tablet or cellphone, by downloading the mobile app.
 
+### FREE CLASSES
+
+[From Oakton Community College](https://www.oakton.edu/conted/find_classes/literacy_reading/index.php) - 
+
+Literacy class are held at the Des Plaines Public Library and other locations. 
+
 ## OUR FAVORITE WEB SITES
 
 ### For Language Learning
 
+[Wordreference.com](http://www.wordreference.com/)
+
+Dictionaries for Spanish, Italian and French plus language forums where native speakers around the world will answer your language related questions. 
 
 ### ESL - English as a Second Language
+
