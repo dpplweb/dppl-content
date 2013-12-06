@@ -28,14 +28,12 @@ This database includes state, federal and landmark court cases as well as state 
 ### Statistical Abstract of the United States
 
 This is an excellent source for statistics on the social, political, and economic conditions of the United States. New data is added monthly.
-
  
 ### OUR FAVORITE WEB SITES
 
 These are useful sites to help you learn about your elected officials and stay informed on important issues.
 
 ### Voter Information
-
 
 [Project Vote Smart](votesmart.org)
 
