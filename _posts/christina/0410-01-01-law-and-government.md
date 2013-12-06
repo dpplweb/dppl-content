@@ -15,7 +15,7 @@ published: true
 
 **##  SUBSCRIPTION DATABASES - DPPL library card required from home.**
 
-These databases can help you with personal or academic research related to law, politics and economics. A DPPL card is required to access them from home
+These databases can help you with personal or academic research related to law, politics and economics. 
 
 ### Law and Government ebooks
 
