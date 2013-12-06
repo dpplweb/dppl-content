@@ -28,6 +28,10 @@ Free access to ConsumerReports.org. Find ratings and recommendations on applianc
 This is a good source for local consumer information for the home, cars, health, personal services and more. Includes Chicago Consumers' Checkbook. 
 Please register with Consumers' Checkbook for home use.
 
+### Weiss/Financial Ratings Series
+
+Financial strength ratings for banks, credit unions, mutual funds and stocks.
+
 ### Specialized Guides
 
 These guides offer detailed information on specific topics.
@@ -48,7 +52,7 @@ Up-to-date information on the social, health and financial issues facing older A
 
 Check out a business or charity or file a complaint at this site.
 
-### Consumer.gov
+### [Consumer.gov](http://www.consumer.gov/)
 
 Information from the federal government on loans, credit, identity theft and scams. 
 
