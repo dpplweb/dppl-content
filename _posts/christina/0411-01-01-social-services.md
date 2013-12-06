@@ -19,7 +19,6 @@ published: true
 
 These directories will help you locate and connect with agencies and services in your community and beyond.
 
-
 ### Complete Directory for Pediatric Disorders
 Medical information, resources and support services for pediatric disorders.
 
