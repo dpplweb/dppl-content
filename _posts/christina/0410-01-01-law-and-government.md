@@ -19,11 +19,11 @@ These databases can help you with personal or academic research related to law, 
 
 ### Law and Government ebooks
 
-This is a collection of ebooks on law, government and political theory.
+This is a collection of ebooks on law, government and political theory. 
 
 ### Lexis Library Express
 
-This database includes state, federal and landmark courtcases as well as state statutes. It also includes law review articles and other sources for doing legal resarch. Legal sources only available at the library.
+This database includes state, federal and landmark court cases as well as state statutes. It also includes law review articles and other sources for doing legal resarch. Legal sources only available at the library.
 
 ### Statistical Abstract of the United States
 
@@ -36,11 +36,12 @@ These are useful sites to help you learn about your elected officials and stay i
 
 ### Voter Information
 
+
 [Project Vote Smart](votesmart.org)
 
 Enter your zip code or home address to find your elected officials and other information for voters.
 
-[### VoterInfoNet](http://www.voterinfonet.com/)
+[VoterInfoNet](http://www.voterinfonet.com/)
 
 Cook County ballots and polling places. 
 
