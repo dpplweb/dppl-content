@@ -40,6 +40,8 @@ Allows you to compare, sort and rank top rated U.S. cities by different criteria
 
 Up-to-date information on the social, health and financial issues facing older Americans as well as recreational and educational opportunities.
 
+### FREE WEB SITES
+
 ### Consumer Protection
 
 ### [The Better Business Bureau](http://www.bbb.org/)
@@ -50,13 +52,16 @@ Check out a business or charity or file a complaint at this site.
 
 Information from the federal government on loans, credit, identity theft and scams. 
 
-### Web sites for Consumers
+### Web sites for bargain hunters
  
-### Coupons
-There are lots of sites for printable coupons on the Web. We've listed a few:
+### Coupons & Deals
+There are lots of sites for printable coupons and deal alerts on the Web. We've listed a few:
  
-[CouponMom.com](http://www.couponmom.com/) 
-Lists of grocery deals and coupons updated weekly. 
+[SlickDeals.net](http://slickdeals.net/)
+A good source for deals on electronics. 
 
 [Coupons.com](http://www.coupons.com/) 
 Printable coupons and coupon codes for grocery and retail products.
+
+[Hip2Save.com](http://hip2save.com/)
+Up-to-date deals for online and in-store purchases.
