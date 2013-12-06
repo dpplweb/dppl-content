@@ -6,8 +6,8 @@ section: resources
 author: Joanne
 layout: post
 title: Investing
-audience: ""
-keywords: ""
+audience: "small individual investor, novice or experienced"
+keywords: "investing reports, recommendations, ratings, rankings"
 goals: ""
 actions: ""
 published: true
