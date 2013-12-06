@@ -8,7 +8,7 @@ layout: post
 title: Investing
 audience: "small individual investor, novice or experienced"
 keywords: "investing reports, recommendations, ratings, rankings"
-goals: ""
+goals: "access traditional investment resources,"
 actions: ""
 published: true
 ---
