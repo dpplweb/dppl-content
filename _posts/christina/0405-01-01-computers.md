@@ -14,6 +14,12 @@ published: true
 ---
 
 
+
+## SUBSCRIPTION DATABASES - DPPL card required from home
+
+### Adult Learning Center- from HelpNow
+Live one-on-one coaching to improve your computer skills on MS Word, Excel and PowerPoint.
+
 ### Free Computer Classes
 [link to Computer Classes @ DPPL and other locations]
 
