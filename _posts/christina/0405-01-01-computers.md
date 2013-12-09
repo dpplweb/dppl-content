@@ -6,8 +6,8 @@ section: resources
 author: Christina
 layout: post
 title: Computers
-audience: ""
-keywords: ""
+audience: "adults, teenagers"
+keywords: "microsoft word, excel, powerpoint, computer classes, computer skills, "
 goals: ""
 actions: ""
 published: true
