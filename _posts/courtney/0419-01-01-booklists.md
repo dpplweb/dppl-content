@@ -55,14 +55,14 @@ As a parent, you know your child best.  Getting them to read can be tricky, but 
 
 State of Illinois' Awards include the [Monarch Award](http://www.islma.org/monarch.htm) for Kindergarten to 3rd grade, the [Bluestem Award](http://www.islma.org/Bluestem.htm) for 3rd to 5th grades, the [ReCaudill Award](http://www.rcyrba.org/) for 4th to 8th grades, and the [Abraham Lincoln Award](http://www.islma.org/lincoln.htm) for high school literature.
 
-- Monarch Award Nominees 2013-2014
+- [Monarch Award Nominees 2013-2014](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/217286146_monarch_award_nominees_2013-2014)
 - [Monarch Award Winners](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/217284105_monarch_winners)
-- Bluestem Award Nominees 2013-2014
+- [Bluestem Award Nominees 2013-2014](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/217308985_bluestem_award_nominees_2013_-_2014)
 - [Bluestem Award Winners](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/217289916_bluestem_award_winners)
-- Caudill Award Nominees 2013-2014
-- Caudill Award Winners
-- Abraham Lincoln Award Nominees 2013-2014
-- Abraham Lincoln Award Winners
+- [Caudill Award Nominees 2013-2014](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/218018625_caudill_award_nominees_2013_-_2014)
+- [Caudill Award Winners](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/218001446_caudill_award_winners)
+- [Abraham Lincoln Award Nominees 2013-2014](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/218162015_abraham_lincoln_award_nominees_2013_-_2014)
+- [Abraham Lincoln Award Winners](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/218023265_abraham_lincoln_award_winners)
 
 National Awards vary in purpose, from excellence in illustration to books that honor the best and brightest authors of specific heritages.  You can find more about each of these awards and their winners by clicking on the links below.
 
@@ -81,4 +81,3 @@ The [Pura Belpre Award](http://www.ala.org/awardsgrants/pura-belpre-award) honor
 The [Randolph Caldecott Medal](http://www.ala.org/awardsgrants/randolph-caldecott-medal-1) is awarded annually to the artist of the most distinguished American picture book for children.
 
 The [Theordore Geisel Seuss Award](http://www.ala.org/awardsgrants/theodor-seuss-geisel-award) is given annually to the author(s) and illustrator(s) of the most distinguished contribution to beginning reader books published in the United States during the preceding year.
-
