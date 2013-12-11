@@ -6,9 +6,9 @@ section: about
 author: Brodie
 layout: post
 title: Departments
-audience: ""
-keywords: ""
-goals: ""
+audience: general library audience
+keywords: "departments, services, staff"
+goals: "Understand basic functions of each department, and location"
 actions: ""
 published: true
 ---
