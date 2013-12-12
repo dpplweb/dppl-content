@@ -28,5 +28,7 @@ We love being crafty at the library. We'll have simple crafts at Kids Get Crafty
 From board games to video games, gaming is a staple at the library. We celebrate International Games Day every November, have Family Game Night each Thursday, and other gaming opportunities. 
 
 ###Science and Technology
-No matter the age we have science and technology programs for all children.
+No matter the age we have science and technology programs for all children. Little Learners for the little ones, Tech DIY for 4th-8th graders, and our Annual Family Science Expo are a small sample of some of the science and technology programs you'll find at the library.
+
+Whatever the interest, whatever the age, the Youth Services department makes sure to create, present, and host a wide range of entertaining and educational programing. Be sure to check out our calendar for all upcoming programs.
 
