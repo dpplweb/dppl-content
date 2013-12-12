@@ -23,21 +23,31 @@ The library has several different options whatever your age or need.
 
 Listen online to audio books in many different categories: fiction, non-fiction, classics and even Spanish language audio books! These books are always available, never on hold, and no need to download.
 
+[Click here to go to AudioBookCloud](Link to AudioBookCloud)
+
 ###BookFLIX
 
 Explore animated versions of favorite children's picture books and related nonfiction ebooks in one of nine learning categories. Also includes Spanish titles and educational games.
+
+[Click here to go to BookFLIX](Link to BookFLIX)
 
 ###TumbleBook Library
 
 A collection of animated, talking picture books, puzzles and games. Includes books in Spanish and French.
 
+[Click here to go to TumbleBook Library](Link to TumbleBook Library)
+
 ###TumbleBookCloud
 
 An online collection of ebooks and read-along chapter, graphic novels, National Geographic videos, and audio books. Over 500 titles for middle/high school students including content to support the Common Core Curriculum.
 
+[Click here to go to TumbleBookCloud](Link to TumbleBookCloud)
+
 ##TumbleBookCloud Junior
 
 An online collection of ebooks and read-along chapter, graphic novels, National Geographic videos, and audio books. For grades two to six.
+
+[Click here to go to TumbleBookCloud Junior](Link to TumbleBookCloud Junior)
 
 
 ## Checkout Digital Books and Audiobooks
