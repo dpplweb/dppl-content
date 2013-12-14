@@ -109,7 +109,7 @@ Everything found in World Book Encyclopedia and more. For elementary and middle 
 ###Amazing Animals of the World
 Information about animals for elementary students and older.
 
-###Pebble_Go_ 
+###Pebble_Go_ Animals
 
 
 
