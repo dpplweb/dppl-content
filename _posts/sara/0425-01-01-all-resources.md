@@ -13,7 +13,7 @@ actions: open database
 published: true
 ---
 
-##Online Resources for Children
+##Online Resources for Children (Alphabetical)
 Here is an alphabetical list of all our online resources for children.
 
 ###A to Z The USA
@@ -70,16 +70,16 @@ Information on science and technology for middle and high school students.
 ###NoveList Plus K-8
 Allows readers of all ages to search for new books to read by favorite title, author, subject, keywords and more. Includes popularity ratings.
 
-###PebbleGo Animals
+###Pebble_Go_ Animals
 Information and educational games on over 200 animals especially for K-3 emergent readers.
 
-###PebbleGo Biographies
+###Pebble_Go_ Biographies
 Information about key historical figures especially for K-3 emergent readers.
 
-###PebbleGo Earth and Space
+###Pebble_Go_ Earth and Space
 Information and educational games about earth science, seasons, space, and weather especially for K-3 emergent readers.
 
-###PebbleGo Social Studies
+###Pebble_Go_ Social Studies
 Over 150 articles in 12 different categories introduce young researchers to the world around them. For K-3 students.
 
 ###Searchasaurus
@@ -101,7 +101,15 @@ A comprehensive source of information, educational games, and activities.
 A section within World Book Online with short illlustrated articles for younger students.
 
 ###World Book Online Info Finder
-Everything found in World Book Encyclopedia and more. For elementary and middle school students. 
+Everything found in World Book Encyclopedia and more. For elementary and middle school students.
+
+**##Online Resources for Children (By category)**
+
+##Animals
+###Amazing Animals of the World
+Information about animals for elementary students and older.
+
+###Pebble_Go_ 
 
 
 
@@ -110,43 +118,5 @@ Everything found in World Book Encyclopedia and more. For elementary and middle 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+****
 
