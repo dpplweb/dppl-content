@@ -50,6 +50,100 @@ Links to resources related to Illinois. Found in tabs at top of page.
 Articles, pictures, maps, an interactive atlas, timelines, dictionary, and thesaurus.
 
 ###Grolier Online Kids
+Use "Find It Fast!" to search all Grolier Online Kids resources at the same time.
+
+###Help Now
+Live homework help from exper tutors in Lanuage Arts, Math, Science, or Social Studies in student-friendly online classrooms. For 3rd grade and older, 3:00 PM to 11:55 PM.
+
+###Kids Search
+An easy way to find information about everything from animals to current events. Perfect for research projects!
+
+###Middle Search Plus
+Full text articles and biographies for middle-school students.
+
+###National Geographic
+Get great stories and photographs from _National Geographic_ magazine. You'll find over 100 years' worth of materials (from 1988 to 1994).
+
+###New Book of Popular Science
+Information on science and technology for middle and high school students.
+
+###NoveList Plus K-8
+Allows readers of all ages to search for new books to read by favorite title, author, subject, keywords and more. Includes popularity ratings.
+
+###PebbleGo Animals
+Information and educational games on over 200 animals especially for K-3 emergent readers.
+
+###PebbleGo Biographies
+Information about key historical figures especially for K-3 emergent readers.
+
+###PebbleGo Earth and Space
+Information and educational games about earth science, seasons, space, and weather especially for K-3 emergent readers.
+
+###PebbleGo Social Studies
+Over 150 articles in 12 different categories introduce young researchers to the world around them. For K-3 students.
+
+###Searchasaurus
+Search by keyword or by topic to find the most useful search results. Geared to younger students.
+
+###TumbleBook Library
+A collection of animated, talking picture books, puzzles, and games. Includes books in Spanish and French.
+
+###TumbleBookCloud
+An online collection of ebooks and read-along chapter books, graphic novels, National Geographic videos, and audiobooks. Over 500 titles for middle/high school students including content to support the Common Core Curriculum.
+
+###World Book Dictionary
+Look up words and and their meanings.
+
+###World Book Encyclopedia
+A comprehensive source of information, educational games, and activities.
+
+###World Book Kids
+A section within World Book Online with short illlustrated articles for younger students.
+
+###World Book Online
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
