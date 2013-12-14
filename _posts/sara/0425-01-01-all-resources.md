@@ -38,22 +38,13 @@ Explore animated versions of favorite children's picture books and related nonfi
 Full text articles on over 100,000 authors.
 
 ###Enciclopedia estudiantil hallazgos
-Contiente informaci
+Información sobre gente, lugares, objetos, acontecimientos e ideas. 
 
+###Experiment Central
+Detailed information on more than 300 science experiments for upper elementary and older students. Search by key word or by alphabetical list of science topics.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+###Explore Illinois
+Links to resources related to Illinois. Found in tabs at top of page.
 
 
 
