@@ -100,7 +100,9 @@ A comprehensive source of information, educational games, and activities.
 ###World Book Kids
 A section within World Book Online with short illlustrated articles for younger students.
 
-###World Book Online
+###World Book Online Info Finder
+Everything found in World Book Encyclopedia and more. For elementary and middle school students. 
+
 
 
 
