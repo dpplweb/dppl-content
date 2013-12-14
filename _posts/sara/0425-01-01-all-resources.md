@@ -31,6 +31,22 @@ Listen online to audio boooks in many different categories: fiction, nonfiction,
 ###Biography in Context
 Information on athletes, entertainers, politicians, historical figures, authors, and many others.
 
+###BookFLIX
+Explore animated versions of favorite children's picture books and related nonfiction ebooks in one of nine learning categories. Also includes Spanish titles and educational games.
+
+###Contemporary Authors
+Full text articles on over 100,000 authors.
+
+###Enciclopedia estudiantil hallazgos
+Contiente informaci
+
+
+
+
+
+
+
+
 
 
 
