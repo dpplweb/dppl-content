@@ -46,6 +46,10 @@ Detailed information on more than 300 science experiments for upper elementary a
 ###Explore Illinois
 Links to resources related to Illinois. Found in tabs at top of page.
 
+###Grolier Multimedia Encyclopedia
+Articles, pictures, maps, an interactive atlas, timelines, dictionary, and thesaurus.
+
+###Grolier Online Kids
 
 
 
