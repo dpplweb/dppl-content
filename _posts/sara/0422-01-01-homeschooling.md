@@ -1,11 +1,15 @@
 ---
+categories: 
+  - resources
+  - sara
+section: resources
+author: Sara
 layout: post
 title: Homeschooling
-author: Sara
-section: resources
-categories: [resources, sara]
-audience: ""
-keywords: ""
-goals: ""
+audience: Homeschooling Parents
+keywords: "curriculum, test prep, grade level guides, periodicals, Common Core"
+goals: learn homeschool resources
 actions: ""
+published: true
 ---
+
