@@ -200,7 +200,7 @@ Get great stories and photographs from _National Geographic_ magazine. You'll fi
 ###Searchasaurus
 Search by keyword or by topic to find the most useful search results. Geared to younger students.
 
-##MMaps, Pictures, and Timelines
+##Maps, Pictures, and Timelines
 ###A to Z The USA
 Detailed information and histories of the 50 states and five U.S. territories. Includes maps, flags, photos, and more.
 
@@ -212,6 +212,9 @@ Articles, pictures, maps, an interactive atlas, timelines, dictionary, and thesa
 
 ###National Geographic
 Get great stories and photographs from _National Geographic_ magazine. You'll find over 100 years' worth of materials (from 1988 to 1994). 
+
+###Pebble_Go_ Social Studies
+Over 150 articles in 12 different categories introduce young researchers to the world around them. For K-3 students.
 
 ###World Book Online Info Finder
 Everything found in World Book Encyclopedia and more. For elementary and middle school students.
@@ -228,6 +231,15 @@ Information and educational games about earth science, seasons, space, and weath
 
 ###World Book Online Info Finder
 Find science projects and experimens for younger and older students in the Science Projects section.
+
+##en español
+###Enciclopedia estudiantil hallazgos
+Información sobre gente, lugares, objetos, acontecimientos e ideas. 
+
+## HelpNow (en español) 
+Ayuda gratis en línea para estudiantes, tutores expertos, grados 3-12.
+
+
 
 
 
