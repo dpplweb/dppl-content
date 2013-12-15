@@ -236,7 +236,7 @@ Find science projects and experimens for younger and older students in the Scien
 ###Enciclopedia estudiantil hallazgos
 Información sobre gente, lugares, objetos, acontecimientos e ideas. 
 
-## HelpNow (en español) 
+###HelpNow (en español) 
 Ayuda gratis en línea para estudiantes, tutores expertos, grados 3-12.
 
 
