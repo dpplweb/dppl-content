@@ -103,13 +103,45 @@ A section within World Book Online with short illlustrated articles for younger 
 ###World Book Online Info Finder
 Everything found in World Book Encyclopedia and more. For elementary and middle school students.
 
-**##Online Resources for Children (By category)**
-
+## Online Resources for Children (By category)
 ##Animals
 ###Amazing Animals of the World
 Information about animals for elementary students and older.
 
 ###Pebble_Go_ Animals
+Information and educational games on over 200 animals especially for K-3 emergent readers.
+
+##Biographies
+###Biography in Context
+Information on athletes, entertainers, politicians, historical figures, authors, and many others.
+
+###Pebble_Go_ Biographies
+Information about key historical figures especially for K-3 emergent readers.
+
+###World Book Kids
+A section within World Book Online with short illlustrated articles for younger students.
+
+###World Book Online Info Finder
+Everything found in World Book Encyclopedia and more. For elementary and middle school students.
+
+##Books and Literature
+###AudioBookClous (TumbleBooks)
+Listen online to audio boooks in many different categories: fiction, nonfiction, classics, and even Spanish language audio books! These books are alwas available, never on hold, and no need to download.
+
+###BookFLIX
+Explore animated versions of favorite children's picture books and related nonfiction ebooks in one of nine learning categories. Also includes Spanish titles and educational games.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -119,4 +151,3 @@ Information about animals for elementary students and older.
 
 
 ****
-
