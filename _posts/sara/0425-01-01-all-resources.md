@@ -220,12 +220,14 @@ Everything found in World Book Encyclopedia and more. For elementary and middle 
 ###Experiment Central
 Detailed information on more than 300 science experiments for upper elementary and older students. Search by key word or by alphabetical list of science topics.
 
-###New Book of Popular Science Projects
+###New Book of Popular Science / Projects
+Find projects by category or do a custom search.
 
+###Pebble_Go_ Earth and Space
+Information and educational games about earth science, seasons, space, and weather especially for K-3 emergent readers.
 
-
-
-
+###World Book Online Info Finder
+Find science projects and experimens for younger and older students in the Science Projects section.
 
 
 
