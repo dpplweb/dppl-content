@@ -172,6 +172,56 @@ A section within World Book Online with short illlustrated articles for younger 
 ###World Book Online Info Finder
 Everything found in World Book Encyclopedia and more. For elementary and middle school students.
 
+##General Reference - Good Places to Start
+###Kids Search
+An easy way to find information about everything from animals to current events. Perfect for research projects!
+
+###Searchasaurus
+Search by keyword or by topic to find the most useful search results. Geared to younger students.
+
+##Homework Help
+###Help Now
+Live homework help from exper tutors in Lanuage Arts, Math, Science, or Social Studies in student-friendly online classrooms. For 3rd grade and older, 3:00 PM to 11:55 PM.
+
+##Illinois Information
+###A to Z The USA
+Detailed information and histories of the 50 states and five U.S. territories. Includes maps, flags, photos, and more.
+
+###Explore Illinois
+Links to resources related to Illinois. Found in tabs at top of page.
+
+##Magazine and Newspaper Articles
+###Kids Search
+An easy way to find information about everything from animals to current events. Perfect for research projects!
+
+###National Geographic
+Get great stories and photographs from _National Geographic_ magazine. You'll find over 100 years' worth of materials (from 1988 to 1994). 
+
+###Searchasaurus
+Search by keyword or by topic to find the most useful search results. Geared to younger students.
+
+##MMaps, Pictures, and Timelines
+###A to Z The USA
+Detailed information and histories of the 50 states and five U.S. territories. Includes maps, flags, photos, and more.
+
+###America the Beautiful
+Information about U.S. states and territories for elementary and middle school students.
+
+###Grolier Multimedia Encyclopedia
+Articles, pictures, maps, an interactive atlas, timelines, dictionary, and thesaurus.
+
+###National Geographic
+Get great stories and photographs from _National Geographic_ magazine. You'll find over 100 years' worth of materials (from 1988 to 1994). 
+
+###World Book Online Info Finder
+Everything found in World Book Encyclopedia and more. For elementary and middle school students.
+
+##Science Projects and Experiments
+###Experiment Central
+Detailed information on more than 300 science experiments for upper elementary and older students. Search by key word or by alphabetical list of science topics.
+
+###New Book of Popular Science Projects
+
 
 
 
