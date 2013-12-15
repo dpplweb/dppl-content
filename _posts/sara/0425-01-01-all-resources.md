@@ -131,6 +131,47 @@ Listen online to audio boooks in many different categories: fiction, nonfiction,
 ###BookFLIX
 Explore animated versions of favorite children's picture books and related nonfiction ebooks in one of nine learning categories. Also includes Spanish titles and educational games.
 
+###Contemporary Authors
+Full text articles on over 100,000 authors.
+
+###NoveList Plus K-8
+Allows readers of all ages to search for new books to read by favorite title, author, subject, keywords and more. Includes popularity ratings.
+
+###TumbleBook Library
+A collection of animated, talking picture books, puzzles, and games. Includes books in Spanish and French.
+
+###TumbleBookCloud
+An online collection of ebooks and read-along chapter books, graphic novels, National Geographic videos, and audiobooks. Over 500 titles for middle/high school students including content to support the Common Core Curriculum.
+
+##Current Events
+###Kids Search
+An easy way to find information about everything from animals to current events. Perfect for research projects!
+
+###Searchasaurus
+Search by keyword or by topic to find the most useful search results. Geared to younger students.
+
+##Encyclopedias and Dictionaries
+###Amazing Animals of the World
+Information about animals for elementary students and older.
+
+###America the Beautiful
+Information about U.S. states and territories for elementary and middle school students.
+
+###Grolier Multimedia Encyclopedia
+Articles, pictures, maps, an interactive atlas, timelines, dictionary, and thesaurus.
+
+###Grolier Online Kids
+Use "Find It Fast!" to search all Grolier Online Kids resources at the same time.
+
+###New Book of Popular Science
+Information on science and technology for middle and high school students.
+
+###World Book Kids
+A section within World Book Online with short illlustrated articles for younger students.
+
+###World Book Online Info Finder
+Everything found in World Book Encyclopedia and more. For elementary and middle school students.
+
 
 
 
