@@ -13,9 +13,10 @@ actions: ""
 published: true
 ---
 
-## We can serve as a proctoring site for your professional or student examination. ### Please look at the following FAQs for more information.
+## We can serve as a proctoring site for your professional or student examination. 
 
-	Contact Gwen LaCosse with additional questions. 
+Please look at the following FAQs for more information or contact Gwen LaCosse with additional questions. 
+
 	glacosse@dppl.org. PHONE 847-376-2919. FAX 847-827-7974 
 
 ## FAQs
