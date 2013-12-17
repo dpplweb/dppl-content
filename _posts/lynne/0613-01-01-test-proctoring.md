@@ -33,7 +33,11 @@ Any of the 4th floor Reference staff can act as your proctor when you take the t
 Yes. The computers for adults (over 15) are on the fourth floor. You can stop in at any time and we will get you on a computer. We can only sign you up for an hour: if you need more time, ask the Reference staff.
 
 ### I have a paper test. How does that work?
-We can book a private study room on the fourth floor for you. Call or email Gwen LaCosse to do so (see above). The library staff cannot stay in the room with you, but they will check on you every so often during the exam period.
+We can book a private study room on the fourth floor for you. Call or email Gwen LaCosse to do so (see above). The library staff cannot stay in the room with you, 
+but they will check on you every so often during the exam period.
+
+### How do I get a copy of the finished paper exam back to my school?
+We can fax a copy to the school. If you want us to mail the test, you or the school must provide an envelope and postage. 
 
 ### My school has to mail/email the exam or information about the exam. Who do they send it to?
 Send it to:
@@ -51,7 +55,3 @@ Send it to:
     OR
 
     glacosse@dppl.org 
-
-
-### How do I get a copy of the finished paper exam back to my school?
-We can fax a copy to the school. If you want us to mail the test, you or the school must provide an envelope and postage. 
