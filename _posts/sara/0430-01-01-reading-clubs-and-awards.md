@@ -67,3 +67,9 @@ Read eight books for each patch. Four books should come from the the book list a
 - [Scary Stories]()
 - [Science Fiction]()
 - [Sports]()
+
+## Summer Reading Club 
+[intruder??]
+
+## Winter Reading Club 
+[intruder??]
