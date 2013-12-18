@@ -36,7 +36,7 @@ Read 50 books for each patch. See book list for specific instructions and requir
 - [Award Winners]()
 - [Fairy Tales]()
 
-### Early Reders: Preschool - Grade 2
+### Early Readers: Preschool - Grade 2
 Read 20 books for each patch. See book list for specific instructions and requirements. Choose:
 
 - [I Can Read]() [link to pdf or other list]
