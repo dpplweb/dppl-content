@@ -28,6 +28,7 @@ Join our Bluestem Club. For children in grades 3 - 5 who do not already particip
 Earn embroidered patches in a variety of categories and genres, including animal stories, fantasy, scary stories, mysteries and more. Sponsored by Friends of the Library. Offered September through May. Register at the Youth Services Desk to receive your Reading Patch Folder with a trading card pouch to collect your patches. 
 ### Read-to-Me: Preschool - Grade 2
 Read 50 books for each patch. See book list for specific instructions and requirements. Choose: [is it possible to include images of the patches?]
+
 - [Read to Me]() [link to pdf or other list]
 - [Read to Me Again]()
 - [Kindergarten Star]()
@@ -37,6 +38,7 @@ Read 50 books for each patch. See book list for specific instructions and requir
 
 ### Early Reders: Preschool - Grade 2
 Read 20 books for each patch. See book list for specific instructions and requirements. Choose:
+
 - [I Can Read]() [link to pdf or other list]
 - [I Can Read More]()
 - [Adventure]()
@@ -47,6 +49,7 @@ Read 20 books for each patch. See book list for specific instructions and requir
 
 ### Independent Readers: Grades 2 - 8
 Read eight books for each patch. Four books should come from the the book list and four of your choice in the genre. Choose:
+
 - [Adventure]() [link to pdf or other list]
 - [Award]()
 - [Biography]()
@@ -64,6 +67,3 @@ Read eight books for each patch. Four books should come from the the book list a
 - [Scary Stories]()
 - [Science Fiction]()
 - [Sports]()
-
-
-
