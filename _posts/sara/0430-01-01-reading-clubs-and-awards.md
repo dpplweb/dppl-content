@@ -51,5 +51,17 @@ Read 50 books for each patch. See book list for specific instructions and requir
 - [Explore the World]()
 - [Fantasy]()
 - [Folk Tales]()
+- [Get Creative]()
+- [Go Green]()
+- [Historical Fiction]()
+- [Just the Facts]()
+- [Kids' Picks]()
+- [Mystery]()
+- [Poetry]()
+- [Reading the Classics]()
+- [Scary Stories]()
+- [Science Fiction]()
+- [Sports]()
+
 
 
