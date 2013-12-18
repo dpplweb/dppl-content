@@ -25,4 +25,32 @@ Join our Bluestem Club. For children in grades 3 - 5 who do not already particip
 [Join our Monarch Club]() [needs link to Feedback Form]. For children in Kindergarten - 3rd grade who do not already participate in a Monarch program at school. Help select the next winner of the [Monarch Reades' Choice Award](http://www.islma.org/monarch.htm). Read or listen to at least five of the [nominated books](http://www.islma.org/grantWinners/bluestem14List.pdf) to be eligible to vote for your favorite in February.   
 
 ##Reading Patch Club (for preschool - 8th grade)
-Earn embroidered patches in a variety of categories and genres.
+Earn embroidered patches in a variety of categories and genres, including animal stories, fantasy, scary stories, mysteries and more. Sponsored by Friends of the Library. Offered September through May. Register at the Youth Services Desk to receive your Reading Patch Folder with a trading card pouch to collect your patches. 
+- ### Read-to-Me: Preschool - Grade 2
+Read 50 books for each patch. See book list for specific instructions and requirements.
+- [Read to Me]() [link to pdf or other list]
+- [Read to Me Again]()
+- [Kindergarten Star]()
+- [Animal Stories]()
+- [Award Winners]()
+- [Fairy Tales]()
+
+
+
+
+- ### Early Reders: Preschool - Grade 2
+- ### Independent Readers: Grades 2 - 8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
