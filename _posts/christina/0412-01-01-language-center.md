@@ -30,7 +30,7 @@ Mango offers a variety of fun ways to help you learn another language, including
 
 [From Oakton Community College](https://www.oakton.edu/conted/find_classes/literacy_reading/index.php) - 
 
-Literacy class are held at the Des Plaines Public Library and other locations. 
+Learn to Read classes are held at the Des Plaines Public Library and other locations. ESL classes are offered at other locations as well.
 
 ## OUR FAVORITE WEB SITES
 
