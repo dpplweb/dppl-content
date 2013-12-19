@@ -21,16 +21,16 @@ These databases are good starting points for evaluating products and services.
 
 ### Consumer Reports
 
-Free access to ConsumerReports.org. Find ratings and recommendations on appliances, electronics, cars, travel and more.
+We offer free access to ConsumerReports.org to anyone at the library and to Des Plaines residents from home. Find ratings and recommendations on appliances, electronics, cars, travel and more.
 
 ### Consumers' Checkbook
 
-This is a good source for local consumer information for the home, cars, health, personal services and more. Includes Chicago Consumers' Checkbook. 
+This is a good source for local consumer information for the home, cars, health, personal services and more. It includes Chicago Consumers' Checkbook. 
 Please register with Consumers' Checkbook for home use.
 
 ### Weiss/Financial Ratings Series
 
-Financial strength ratings for banks, credit unions, mutual funds and stocks.
+Find out how your bank or credit union is doing by checking its financial strength rating. You can also find ratings for mutual funds and stocks.
 
 ### Specialized Guides
 
