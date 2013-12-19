@@ -42,5 +42,10 @@ Dictionaries for Spanish, Italian and French plus language forums where native s
 
 ### ESL - English as a Second Language
 
+[America's Literacy Directory](https://www.literacydirectory.org/)
+
+Enter your zip code and find classes for learning English, studying for the Citizenship exam and other adult learning opportunities.
+
 [Using English.com](http://www.usingenglish.com/)
+
 This site has lots of tools and resources for students and teachers, including tests and quizzes, explanations of English idioms, irregular verb conjugations and more.
