@@ -61,11 +61,11 @@ Information from the federal government on loans, credit, identity theft and sca
 ### Coupons & Deals
 There are lots of sites for printable coupons and deal alerts on the Web. We've listed a few:
  
-[SlickDeals.net](http://slickdeals.net/)
+### [SlickDeals.net](http://slickdeals.net/)
 A good source for deals on electronics. 
 
-[Coupons.com](http://www.coupons.com/) 
+### [Coupons.com](http://www.coupons.com/)
 Printable coupons and coupon codes for grocery and retail products.
 
-[Hip2Save.com](http://hip2save.com/)
+### [Hip2Save.com](http://hip2save.com/)
 Up-to-date deals for online and in-store purchases.
