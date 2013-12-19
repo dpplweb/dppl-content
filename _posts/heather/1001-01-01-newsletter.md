@@ -13,7 +13,7 @@ actions: "view newsletter, click through to register"
 published: true
 ---
 
-Love the library? Stay information with _eForward_
+Love the library? Stay informed with _eForward_
 
 ## What's inside the newsletter
 
