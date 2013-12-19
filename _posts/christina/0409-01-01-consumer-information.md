@@ -38,7 +38,7 @@ These guides offer detailed information on specific topics.
 
 ### America's Top-Rated Cities, 2012
 
-Allows you to compare, sort and rank top rated U.S. cities by different criteria including education, income and ethnicity. Also available in print.
+This database allows you to compare, sort and rank top rated U.S. cities by different criteria including education, income and ethnicity.
 
 ### Older Americans Information Directory
 
