@@ -13,9 +13,14 @@ actions: download an application
 published: true
 ---
 
-##6th Annual Family Science Expo Happens October 11th 2014
+We love getting kids excited about learning and the Des Plaines Library's Family Science Expo is the perfect family activity. 
 
-We love getting kids excited about learning and the Des Plaines Library's Family Science Expo is the perfect family activity. Ideal for all ages, families can explore different science organizations and see amazing things. Science Expo has been a yearly tradition for the past 5 years and we're excitedly planning our 6th. Make sure to mark this date on your calendar.
+Ideal for all ages, families can explore different science organizations and see amazing things. Science Expo has been a yearly tradition for the past 5 years and we're excitedly planning our 6th.
+
+[intruder]
+Save the date
+The 6th Annual Family Science Expo will happen on October 11th 2014.
+[/intruder]
 
 ##Calling All Scientists! Want to Participate?
 
