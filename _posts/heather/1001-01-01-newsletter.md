@@ -13,10 +13,14 @@ actions: "view newsletter, click through to register"
 published: true
 ---
 
-##_eForward_, DPPL’s Weekly eNewsletter. 
-_eForward_, Des Plaines Public Library’s weekly newsletter, is published on Friday afternoons and includes information on events taking place the following Saturday through Friday.  It also highlights new and useful resources, blog posts and other important information. 
-##Subscribe to _eForward_ Here **[INSERT SUBSCRIBE LINK HERE]**
-You may unsubscribe at any time. DPPL never shares contact emails with any outside companies or organizations.
+Love the library? Stay information with _eForward_
+
+We publish _eForward_, our weekly newsletter, on Friday afternoons. Subcribe and you'll get information on upcoming events, new and useful resources, blog posts and other important information. 
+
+You can unsubscribe at any time. And don't worry. We never share your email address with any outside companies or organizations.
+
 ## The Most Recent _eForward_ 
 **[INSERT MOST RECENT eFORWARD HERE]**
-##Check Out the eForward Archive [JUMP TO ARCHIVE PAGE].
+
+### Missed an issue? 
+Check out the [eForward archive](link to JUMP TO ARCHIVE PAGE).
