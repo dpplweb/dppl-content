@@ -143,3 +143,5 @@ footer {
 .post pre.terminal code {
   background-color: #333;
 }
+
+.post-header h1{font-size: 2em;}
