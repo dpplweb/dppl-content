@@ -35,24 +35,24 @@ These are useful sites to help you learn about your elected officials and stay i
 
 ### Voter Information
 
-[Project Vote Smart](votesmart.org)
+### [Project Vote Smart](votesmart.org)
 
 Enter your zip code or home address to find your elected officials and other information for voters.
 
-[VoterInfoNet](http://www.voterinfonet.com/)
+### [VoterInfoNet](http://www.voterinfonet.com/)
 
 Cook County ballots and polling places. 
 
-[League of Women Voters](http://www.lwv.org)
+### [League of Women Voters](http://www.lwv.org)
 
 Voter information from nonpartisan political organization that works to influence public policy through citizen education and advocacy. 
 
 ### Campaign Finance
 
-[Open Book - Illinois](http://www.openbook.illinoiscomptroller.com/)
+### [Open Book - Illinois](http://www.openbook.illinoiscomptroller.com/)
 
 Comptroller's searchable database of state contracts and campaign contributions.
  
-[Opensecrets.org](http://www.opensecrets.org/)
+### [Opensecrets.org](http://www.opensecrets.org/)
 
-Nonpartisan site tracks money financing U.S. political campaigns. Includes donor lookup and election overviews. 
+Nonpartisan site tracks money financing U.S. political campaigns. Includes donor lookup and election overviews.
