@@ -36,13 +36,13 @@ Learn to Read classes are held at the Des Plaines Public Library and other locat
 
 ### For Language Learning
 
-[Wordreference.com](http://www.wordreference.com/)
+### [Wordreference.com](http://www.wordreference.com/)
 
 Dictionaries for Spanish, Italian and French plus language forums where native speakers around the world will answer your language related questions. 
 
 ### ESL - English as a Second Language
 
-[America's Literacy Directory](https://www.literacydirectory.org/)
+### [America's Literacy Directory](https://www.literacydirectory.org/)
 
 Enter your zip code and find classes for learning English, studying for the Citizenship exam and other adult learning opportunities.
 
