@@ -15,11 +15,13 @@ published: true
 
 Love the library? Stay information with _eForward_
 
+## What's inside the newsletter
+
 We publish _eForward_, our weekly newsletter, on Friday afternoons. Subcribe and you'll get information on upcoming events, new and useful resources, blog posts and other important information. 
 
 You can unsubscribe at any time. And don't worry. We never share your email address with any outside companies or organizations.
 
-## The Most Recent _eForward_ 
+## Read the most recent _eForward_ 
 **[INSERT MOST RECENT eFORWARD HERE]**
 
 ### Missed an issue? 
