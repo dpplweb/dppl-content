@@ -41,3 +41,6 @@ Learn to Read classes are held at the Des Plaines Public Library and other locat
 Dictionaries for Spanish, Italian and French plus language forums where native speakers around the world will answer your language related questions. 
 
 ### ESL - English as a Second Language
+
+[Using English.com](http://www.usingenglish.com/)
+This site has lots of tools and resources for students and teachers, including tests and quizzes, explanations of English idioms, irregular verb conjugations and more.
