@@ -13,8 +13,10 @@ actions: ""
 published: true
 ---
 
+If you're trying to learn a new language, including English, or improve your fluency in one you already know, we have lots of resources that can help. They include subscription databases and a large collection of self-study materials, such as books, CDs and DVDs. We've also listed some of our favorite Web sites.
+In addition, Oakton Community College offers free Learn to Read classes here at the library.
+
 ##  SUBSCRIPTION DATABASES - DPPL library card required from home.
-You can get help learning languages, including English, using our subscription databases or the free Web sites listed below.
 
 ### Library PressDisplay
 
@@ -39,4 +41,3 @@ Literacy class are held at the Des Plaines Public Library and other locations.
 Dictionaries for Spanish, Italian and French plus language forums where native speakers around the world will answer your language related questions. 
 
 ### ESL - English as a Second Language
-
