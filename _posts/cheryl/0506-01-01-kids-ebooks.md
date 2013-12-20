@@ -35,7 +35,7 @@ Explore animated versions of favorite children's picture books and related nonfi
 
 A collection of animated, talking picture books, puzzles and games. Includes books in Spanish and French.
 
-[Click here to go to TumbleBook Library](Link to TumbleBook Library)
+[Click here to go to TumbleBook Library](http://www.tumblebooks.com/library/asp/home_tumblebooks.asp)
 
 ###TumbleBookCloud
 
