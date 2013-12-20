@@ -1,11 +1,15 @@
 ---
-layout: post
-title: Books, Movies, Music
+categories: 
+  - "books-movies-music"
+  - brodie
+section: "books-movies-music"
 author: Brodie
-section: books-movies-music
-categories: [books-movies-music, brodie]
+layout: post
+title: "eBooks & more"
 audience: ""
 keywords: ""
 goals: ""
 actions: ""
+published: true
 ---
+
