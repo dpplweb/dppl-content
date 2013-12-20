@@ -28,7 +28,7 @@ The VTech InnoTab  Learning App Tablet combines interactive reading, learning ga
 ### LeapFrog LeapPad2
 The LeapFrog LeapPad2 Tablet lets your child explore e-books and learning apps in an playful way. Your child can touch the screen with a finger to bring characters and words to life. They can tap, draw and write with the stylus, or turn, twist and shake the tablet for exciting motion-based play!  Each LeapPad2 you check out from the library comes with one cartridge already in the case, but you can check out other LeapPad cartridges for more learning fun.
 
-[Which LeapFrog LeapPad2 devices are available? View the catalog here.](Link to catalog list of LeapFrog LeapPad2 devices)
+[Which LeapFrog LeapPad2 devices are available? View the catalog here.](http://dppl.bibliocommons.com/search?custom_query=callnumber%3A%28%22j%20leapfrog%20leappad*%22%29&search_scope=DPKANDDBK&suppress=true&custom_edit=false)
  
 ### Nexus 7 Tablet
 The Nexus 7 Tablets we have here at the library come pre-loaded with e-books and learning apps best suited for PreK and Kindergarten learners.  Work on phonics skills, sort shapes, and play with words at the touch of a button.  Use your library card number to link to the library’s TumbleBooks and BookFlix databases for even more e-book fun.  These tablets already come with everything you need to encourage your child’s early reading skill growth.
