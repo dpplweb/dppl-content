@@ -32,7 +32,7 @@ To get started you will need a few things:
 
 ###Helpful information
 
-eBooks and audiobooks come in a variety of formats to use on most tablets, smartphones, Kindle devices, Nooks and popular ereaders and computers. 
+eBooks and audiobooks come in a variety of formats to use on most tablets, smartphones, Kindle devices, Nooks, popular ereaders and computers. 
 
 Items checkout for 7,14 or 21 days depending on your personal settings. After the selected time period the book license expires and the book is returned automatically. Never an overdue book.
 
