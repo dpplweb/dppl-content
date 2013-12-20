@@ -2,8 +2,8 @@
 layout: post
 title: Recommendations
 author: Lynne
-section: books-movies-music
-categories: [books-movies-music, lynne]
+section: patron-services
+categories: [patron-services, lynne]
 audience: ""
 keywords: ""
 goals: ""
