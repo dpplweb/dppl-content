@@ -36,6 +36,9 @@ eBooks and audiobooks come in a variety of formats to use on most tablets, smart
 
 Items checkout for 7,14 or 21 days depending on your personal settings. After the selected time period the book license expires and the book is returned automatically. Never an overdue book.
 
+Five items can be checked out at a time and seven items can be placed on hold.
+
+
 
 
 
