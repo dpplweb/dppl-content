@@ -27,7 +27,14 @@ Use the Overdrive App or the Kindle App for your smartphone or tablet.
 To get started you will need a few things:
 1. Your Des Plaines library card
 2. Software or Apps for your computer or device
-3. [Online help](http://www.mymediamall.net/48A44D88-C682-4A02-A149-8C095021A6D6/10/50/en/Help.htm) from MyMediaMall
+3. An Adobe Digital Editions account or an Amazon account for Kindle.
+4. [Online help](http://www.mymediamall.net/48A44D88-C682-4A02-A149-8C095021A6D6/10/50/en/Help.htm) from MyMediaMall
+
+###Helpful information
+
+eBooks and audiobooks come in a variety of formats to use on most tablets, smartphones, Kindle devices, Nooks and popular ereaders and computers. 
+
+Items checkout for 7,14 or 21 days depending on your personal settings. After the selected time period the book license expires and the book is returned automatically. Never an overdue book.
 
 
 
