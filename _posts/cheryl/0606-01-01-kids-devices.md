@@ -23,7 +23,7 @@ We have twelve Nooks available to checkout. Whether it's picture books, graphic 
 ### VTech InnoTab and VTech InnoTab 3
 The VTech InnoTab  Learning App Tablet combines interactive reading, learning games, creative activities, and a rich collection of applications.  Words are highlighted as kids read, and offer proper pronunciation when touched on the screen by your child’s finger or the included stylus.  Each InnoTab and InnoTab 3 you check out from the library comes with one game/book cartridge already in the case, but you can check out other InnoTab cartridges for more learning fun.
 
-[See which VTech devices are available by viewing the catalog here.](Link to catalog list of VTech devices)
+[See which VTech devices are available by viewing the catalog here.](http://dppl.bibliocommons.com/search?custom_query=title%3A%28vtech%20innotab%29%20%20%20-title%3A%28cartridge%29&search_scope=DPKANDDBK&suppress=true&custom_edit=false)
 
 ### LeapFrog LeapPad2
 The LeapFrog LeapPad2 Tablet lets your child explore e-books and learning apps in an playful way. Your child can touch the screen with a finger to bring characters and words to life. They can tap, draw and write with the stylus, or turn, twist and shake the tablet for exciting motion-based play!  Each LeapPad2 you check out from the library comes with one cartridge already in the case, but you can check out other LeapPad cartridges for more learning fun.
