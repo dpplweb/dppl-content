@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tax forms and info
+title: Taxes
 author: Brodie
 section: resources
 categories: [resources, brodie]
