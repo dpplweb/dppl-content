@@ -22,4 +22,7 @@ Find titles through the library catalog or search directly at our virtual branch
 
 Use the Overdrive App or the Kindle App for your smartphone or tablet. 
 
-Learn more about using MyMediaMall
+
+
+###Learn more about using [MyMediaMall](mymediamall.net)
+
