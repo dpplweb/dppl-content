@@ -38,6 +38,8 @@ Items checkout for 7,14 or 21 days depending on your personal settings. After th
 
 Five items can be checked out at a time and seven items can be placed on hold.
 
+Accessible eBooks are available if you have a qualifying disability. You can sign up for [LEAP](http://www.mymediamall.net/48A44D88-C682-4A02-A149-8C095021A6D6/10/50/en/LEAPinfo.htm) (Library eBook Accessibility Program) and download over 20 titles per month for 12 months. 
+
 
 
 
