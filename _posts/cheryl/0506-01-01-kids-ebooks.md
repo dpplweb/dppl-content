@@ -23,7 +23,7 @@ The library has several different options whatever your age or need.
 
 Listen online to audio books in many different categories: fiction, non-fiction, classics and even Spanish language audio books! These books are always available, never on hold, and no need to download.
 
-[Click here to go to AudioBookCloud](Link to AudioBookCloud)
+[Click here to go to AudioBookCloud](http://www.audiobookcloud.com/ViewByCover.aspx?categoryID=35&subcategoryID=19)
 
 ###BookFLIX
 
