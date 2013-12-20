@@ -1,11 +1,16 @@
 ---
+categories: 
+  - "patron-services"
+  - brodie
+section: "patron-services"
+author: Brodie
 layout: post
 title: Homebound application
-author: Brodie
-section: patron-services
-categories: [patron-services, brodie]
-audience: ""
-keywords: ""
-goals: ""
-actions: ""
+audience: People seeking homebound services
+keywords: "homebound, book at home"
+goals: How to request homebound services
+actions: Submit Homebound application form
+published: true
 ---
+
+[insert homebound form]
