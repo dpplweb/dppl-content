@@ -33,4 +33,4 @@ The LeapFrog LeapPad2 Tablet lets your child explore e-books and learning apps i
 ### Nexus 7 Tablet
 The Nexus 7 Tablets we have here at the library come pre-loaded with e-books and learning apps best suited for PreK and Kindergarten learners.  Work on phonics skills, sort shapes, and play with words at the touch of a button.  Use your library card number to link to the library’s TumbleBooks and BookFlix databases for even more e-book fun.  These tablets already come with everything you need to encourage your child’s early reading skill growth.
 
-[Check to see if Nexus 7 Tablets are available in the catalog here.](Link to catalog list of Nexus 7 Tablets)
+[[Link will be added as soon as these tablets are available]]([Link will be added as soon as these tablets are available])
