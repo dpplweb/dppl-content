@@ -6,9 +6,9 @@ section: resources
 author: Brodie
 layout: post
 title: Des Plaines Memory
-audience: ""
-keywords: ""
-goals: ""
+audience: "People looking for historical, genealogical info"
+keywords: "history, photographs, genealogy"
+goals: "Learn about DPM, go to DPM"
 actions: ""
 published: true
 ---
