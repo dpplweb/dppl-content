@@ -13,7 +13,7 @@ actions: ""
 published: true
 ---
 
-##Downloadable eBooks & Audiobooks
+##Downloadable eBooks and audiobooks
 
 Download an eBook or an audiobook and read on your portable device, phone, tablet or computer.
 
@@ -25,4 +25,3 @@ Use the Overdrive App or the Kindle App for your smartphone or tablet.
 
 
 ###Learn more about using [MyMediaMall](mymediamall.net)
-
