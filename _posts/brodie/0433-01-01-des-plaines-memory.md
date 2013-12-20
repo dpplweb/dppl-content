@@ -37,11 +37,11 @@ Between these two collections, you can search for names, addreses, and business.
 
 ## Contribute to Des Plaines Memory
 
-Do you have historical pictures or other significant or interesting pieces related to Des Plaines' past? If so, you can upload them yourself to My Des Plaines Memory.
+Do you have historical pictures or other significant or interesting pieces related to Des Plaines' past? If so, you can [upload them yourself](http://www.desplainesmemory.org/cdm/contribute/collection/p15770coll2) to My Des Plaines Memory.
 
-Just get check out the contribution form to start.
+Just get check out the [contribution form](http://www.desplainesmemory.org/cdm/contribute/collection/p15770coll2) to start.
 
-If you're an artist, we'd also love to show off your creative works.
+If you're an artist, we'd also love to show off your creative works in The Gallery. You can [upload your works](http://www.desplainesmemory.org/cdm/contribute/collection/p15770coll6) there too.
 
 ## More about Des Plaines Memory
 
