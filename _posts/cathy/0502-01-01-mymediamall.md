@@ -22,7 +22,7 @@ Find titles through the library catalog or search directly at our virtual branch
 
 Use the Overdrive App or the Kindle App for your smartphone or tablet. 
 
-###More details bout [MyMediaMall](mymediamall.net)
+###More details about [MyMediaMall](mymediamall.net)
 
 To get started you will need a few things:
 1. Your Des Plaines library card
