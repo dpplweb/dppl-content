@@ -15,7 +15,7 @@ published: true
 
 ##Downloadable eBooks and audiobooks
 
-[MyMediaMall](mymediamall.net)powered by Overdrive is our virtual branch filled with over 20,000 unique titles. eBooks are available in a variety of formats to work with the most popular devices and audiobooks come in both MP3 and WMA. 
+[MyMediaMall](mymediamall.net) powered by Overdrive is our virtual branch filled with over 20,000 unique titles. eBooks are available in a variety of formats to work with the most popular devices and audiobooks come in both MP3 and WMA. 
 
 Find titles through the library catalog or search directly at our virtual branch at 
 [MyMediaMall.net.](mymediamall.net)
