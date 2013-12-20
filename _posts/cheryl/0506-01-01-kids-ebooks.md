@@ -41,13 +41,13 @@ A collection of animated, talking picture books, puzzles and games. Includes boo
 
 An online collection of ebooks and read-along chapter, graphic novels, National Geographic videos, and audio books. Over 500 titles for middle/high school students including content to support the Common Core Curriculum.
 
-[Click here to go to TumbleBookCloud](Link to TumbleBookCloud)
+[Click here to go to TumbleBookCloud](http://www.tumblebookcloud.com/ViewByCover.aspx?categoryID=207&subcategoryID=768)
 
 ###TumbleBookCloud Junior
 
 An online collection of ebooks and read-along chapter, graphic novels, National Geographic videos, and audio books. For grades two to six.
 
-[Click here to go to TumbleBookCloud Junior](Link to TumbleBookCloud Junior)
+[Click here to go to TumbleBookCloud Junior](http://www.tbcjr.com/home.aspx)
 
 
 ## Checkout Digital Books and Audiobooks
