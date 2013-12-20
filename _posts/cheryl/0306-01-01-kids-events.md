@@ -19,7 +19,7 @@ The Youth Services staff loves creating and presenting programs for children of 
 We have storytimes for all ages. Available at different days and times, there's something for everyone. See the calendar for additional information.
 
 ###Outside Entertainment
-Magicians, singers, live animals-oh my! The library brings in special entertainers during events like Friends Family Sundays. All kinds of exciting acts come to the library!  
+Magicians, singers, live animals-oh my! The library brings in special entertainers during events like Friends Family Sundays. All kinds of exciting acts come to the library so be sure to make Friends Family Sunday an outing for your family. 
 
 ###Crafts
 We love being crafty at the library. We'll have simple crafts at Kids Get Crafty and creative projects for older kids at Art Attack. Making things is fun no matter what age you are. 
