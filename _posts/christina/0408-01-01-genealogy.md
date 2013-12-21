@@ -17,10 +17,10 @@ published: true
 
 ### General Sites
 
-**These sites are great jumping-off points for new or seasoned genealogists. You get results from multiple databases in a single search. Read our GENEALOGY GUIDE [link to file in AS Drive - PDF flyers] for more tips on how to do genealogy research.**
+**These sites are great jumping-off points for new or seasoned genealogists. Read our GENEALOGY GUIDE [link to file in AS Drive - PDF flyers] for more tips on how to do genealogy research.**
 
 ### Ancestry Library Edition
-Search billions of genealogy records from the U.S. and around the world.  This is the library version of Ancestry.com. In Library only.
+This is the library version of Ancestry.com. It allows you to search billions of genealogy records from the U.S. and around the world in a single search. In Library only.
 
 ### Heritage Quest Online
 Explore local histories, mine census data and search thousands of other records to find your ancestors and build your family tree.
