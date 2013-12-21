@@ -21,12 +21,12 @@ These databases are good starting points for evaluating products and services.
 
 ### Consumer Reports
 
-We offer free access to ConsumerReports.org to anyone at the library and to Des Plaines residents from home. Find ratings and recommendations on appliances, electronics, cars, travel and more.
+We offer free access to ConsumerReports.org to anyone at the library and to Des Plaines residents from home. You'll find ratings and recommendations on appliances, electronics, cars, travel and more.
 
 ### Consumers' Checkbook
 
 This is a good source for local consumer information for the home, cars, health, personal services and more. It includes Chicago Consumers' Checkbook. 
-Please register with Consumers' Checkbook for home use.
+You'll be asked to register with Consumers' Checkbook for home use.
 
 ### Weiss/Financial Ratings Series
 
@@ -42,9 +42,9 @@ This database allows you to compare, sort and rank top rated U.S. cities by diff
 
 ### Older Americans Information Directory
 
-Up-to-date information on the social, health and financial issues facing older Americans as well as recreational and educational opportunities.
+This directory has up-to-date information on the social, health and financial issues facing older Americans as well as recreational and educational opportunities.
 
-### FREE WEB SITES
+### USEFUL WEB SITES
 
 ### Consumer Protection
 
