@@ -32,10 +32,10 @@ This is a good source for detailed information on international, national, state
 This directory has contact information and more for foundations, scholarships, research centers, religious groups, hospitals and other organizations.
 
 ### Older Americans Information Directory
-Information on assisted living centers. disability aids, legal resources, continuing education and more.
+This directory has information on assisted living centers. disability aids, legal resources, continuing education and more.
 
 ## USEFUL WEB SITES
 
 ### Maine Township Agency Directory
 
-A comprehensive list of hundreds of social service agencies in the township. Descriptions of services, contact information, hours and fees are included.
+This is a comprehensive list of hundreds of social service agencies in the township. Descriptions of services, contact information, hours and fees are included.
