@@ -16,7 +16,7 @@ published: true
 ## SUBSCRIPTION DATABASES - DPPL card required from home
 
 ### Adult Learning Center- from HelpNow
-Live one-on-one coaching to improve your computer skills on MS Word, Excel and PowerPoint.
+You can connect with a live tutor and work to improve your computer skills on MS Word, Excel and PowerPoint.
 
 ### Free Computer Classes
 If you're new to computers, want to brush up on your skills, or learn something new - we may have a class for you.
@@ -27,4 +27,4 @@ If you're new to computers, want to brush up on your skills, or learn something 
 
 [GCFLearnFree.org](http://www.gcflearnfree.org)
 
-Learning activities in technology, math and literacy. From the Goodwill Community Foundation.
+This site has learning activities in technology, math and literacy. From the Goodwill Community Foundation.
