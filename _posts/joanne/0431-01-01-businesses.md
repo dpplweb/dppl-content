@@ -21,4 +21,4 @@ Now you have a mailing list of possible new clients. Or, you have a flooring bus
 
 ##Company Research
 
-Want to know more about a company you found on your prospecting list? [LexisNexis](http://www.lexisnexis.com/hottopics/lnpubliclibraryexpress/Default.asp? "Company information and international news") will let you know that a national moving company with a local branch is also doing business in Canada.
+Want to know more about a company you found on your prospecting list? [LexisNexis](http://www.lexisnexis.com/hottopics/lnpubliclibraryexpress/Default.asp? "Company information and international news") will let you know that a national moving company with a local branch is also doing business in Canada. Find articles international sources or Chicago's Crain Business.
