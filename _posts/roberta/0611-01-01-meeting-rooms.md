@@ -38,24 +38,21 @@ All other room requests must be received no later than Wednesday the week prior 
 If you have any questions please contact: Reservroom@dppl.org or 847-376-2780
 
 To reserve a room you must agree to the Meeting Room Use policy:
-
- Types of Meetings
+**Types of Meetings**
 All meetings are free and open to the public. Priority for meeting room use is as follows:
+1. Library sponsored programs and meetings.
+2. Library-related programs and meetings including Friends of the Library, Learn to Read. 
+3. Meetings of nonprofit Des Plaines Community groups or organizations whose aims are educational, cultural, or civic in nature. 
+4. Meetings of other nonprofit groups the majority of whose members are residents of Des Plaines. 
 
-    Library-sponsored programs and meetings.
-    Library-related programs and meetings including Friends of the Library, Learn to Read.
-    Meetings of nonprofit Des Plaines Community groups or organizations whose aims are educational, cultural, or civic in nature.
-    Meetings of other nonprofit groups the majority of whose members are residents of Des Plaines.
-
-Reservations
-
-    All groups must complete the Meeting Room Request form online.
-    Groups must select a member to act as the contact person and assume responsibility for the group. The contact person will complete the Meeting Room Request Sheet and must be a Des Plaines resident with a currently valid Des Plaines library card.
-    Meeting rooms may be booked for up to four months in advance.
-    There will be a $15 fee for each use of a meeting room. Booking Rooms B and C together as one large room will require a $30 fee. (Read more about our meeting room fees here).
-    Groups must select the room setup style from the Meeting Room Setup Options. If necessary, library staff will provide instruction on equipment operation if requested prior to the meeting date.
-    A representative of the group must complete a Record of Meeting Room Use form after each use and before leaving the building.
-    As a courtesy, the library requests that groups notify the Registration Desk of a cancellation no less than 24 hours before the scheduled meeting.
+**Reservations**
+All groups must complete the Meeting Room Request form online.
+1. Groups must select a member to act as the contact person and assume responsibility for the group. The contact person will complete the Meeting Room Request Sheet and must be a Des Plaines resident with a currently valid Des Plaines library card.
+2. Meeting rooms may be booked for up to four months in advance.
+3. There will be a $15 fee for each use of a meeting room. Booking Rooms B and C together as one large room will require a $30 fee.
+4. Groups must select the room setup style from the Meeting Room Setup Options. If necessary, library staff will provide instruction on equipment operation if requested prior to the meeting date.
+5. A representative of the group must complete a Record of Meeting Room Use form after each use and before leaving the building.
+6. As a courtesy, the library requests that groups notify the Registration Desk of a cancellation no less than 24 hours before the scheduled meeting.
     The library reserves the right to change or cancel meeting room reservations due to unusual circumstances and will notify groups at least 48 hours before the scheduled meeting.
 
 Rules of Use
