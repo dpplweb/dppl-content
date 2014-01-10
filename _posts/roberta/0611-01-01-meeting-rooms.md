@@ -35,9 +35,10 @@ published: true
 
 All other room requests must be received no later than Wednesday the week prior to the event. Your request will be reviewed and you will be notified if it has been accepted.  All equipment must be requested when you reserve the room to insure that it is available for your meeting. If you need training to use the equipment, you must make an appointment in advance at the Registration Desk.
 
-If you have any questions please contact: Reservroom@dppl.org or 847-376-2780
+If you have any questions please contact us at [Reservroom@dppl.org]() or 847-376-2780.
 
 To reserve a room you must agree to the Meeting Room Use policy:
+
 **Types of Meetings**
 All meetings are free and open to the public. Priority for meeting room use is as follows:
 1. Library sponsored programs and meetings.
@@ -53,21 +54,20 @@ All groups must complete the Meeting Room Request form online.
 4. Groups must select the room setup style from the Meeting Room Setup Options. If necessary, library staff will provide instruction on equipment operation if requested prior to the meeting date.
 5. A representative of the group must complete a Record of Meeting Room Use form after each use and before leaving the building.
 6. As a courtesy, the library requests that groups notify the Registration Desk of a cancellation no less than 24 hours before the scheduled meeting.
-    The library reserves the right to change or cancel meeting room reservations due to unusual circumstances and will notify groups at least 48 hours before the scheduled meeting.
+7. The library reserves the right to change or cancel meeting room reservations due to unusual circumstances and will notify groups at least 48 hours before the scheduled meeting.
 
-Rules of Use
-
-    Groups may use the meeting rooms only during hours the library is open to the public. In special circumstances, the Library Director may grant permission for a group to use a meeting room after library hours. The group would then be required to reimburse the library for the cost of extending the hours of library security personnel.
-    After the library has been closed to the public, members of groups using the meeting rooms are restricted to the meeting room and the designated corridors used to leave the building.
-    Groups are responsible for restoring meeting rooms and pantry to the condition prior to their meeting.
-    Groups are responsible for the cost of repairing damage to equipment, furniture, or the building caused by people in attendance at their meeting.
-    Groups may not charge admission nor require donations for their meetings.
-    Nothing may be sold to the public in the library without permission from the Library Director.
-    Smoking is not permitted in the library.
-    Food and non-alcoholic beverages may be served in designated areas. The groups or caterer must provide all paper goods and serving utensils.
-    Groups may use the pantry that is adjacent to the meeting rooms for food preparation, but may not store anything in the cabinets or refrigerator.
-    The piano may not be used as a practice instrument.
-    Groups other than Friends of the Library may not receive mail at the library's address.
+**Rules of Use**
+1. Groups may use the meeting rooms only during hours the library is open to the public. In special circumstances, the Library Director may grant permission for a group to use a meeting room after library hours. The group would then be required to reimburse the library for the cost of extending the hours of library security personnel.
+2. After the library has been closed to the public, members of groups using the meeting rooms are restricted to the meeting room and the designated corridors used to leave the building.
+3. Groups are responsible for restoring meeting rooms and pantry to the condition prior to their meeting.
+4. Groups are responsible for the cost of repairing damage to equipment, furniture, or the building caused by people in attendance at their meeting.
+5. Groups may not charge admission nor require donations for their meetings.
+6. Nothing may be sold to the public in the library without permission from the Library Director.
+7. Smoking is not permitted in the library.
+8. Food and non-alcoholic beverages may be served in designated areas. The groups or caterer must provide all paper goods and serving utensils.
+9. Groups may use the pantry that is adjacent to the meeting rooms for food preparation, but may not store anything in the cabinets or refrigerator.
+10. The piano may not be used as a practice instrument.
+11. Groups other than Friends of the Library may not receive mail at the library's address.
 
 Exceptions
 Any exceptions must be approved by the Library Director.
