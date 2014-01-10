@@ -20,9 +20,9 @@ Become a permanent part of the Des Plaines Public Library today! Hundreds of boo
 - promote your business, complete with your logo
 - say thanks from a family of readers
 
-Several sizes of bricks are available. Simply print out and mail the completed form. The funds from brick sales have paid for many special resources in the library, including family programs, the aquarium in Youth Services, art installations, and special reading areas like the Poet Tree and the Heritage Reading Room.
+Several sizes of bricks are available. Simply print out and mail the completed [form](). The funds from brick sales have paid for many special resources in the library, including family programs, the aquarium in Youth Services, art installations, and special reading areas like the Poet Tree and the Heritage Reading Room.
 
-Do you want to show off your brick to a friend? Here is how you find your brick on the Library Plaza.
+Do you want to show off your brick to a friend? Here is how you [find your brick on the Library Plaza]().
 
 
 
