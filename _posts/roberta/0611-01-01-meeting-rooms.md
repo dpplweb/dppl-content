@@ -49,7 +49,8 @@ All meetings are free and open to the public. Priority for meeting room use is a
 
 **Reservations**
 
-All groups must complete the Meeting Room Request form online.
+All groups must complete the [Meeting Room Request form]() online.
+
 1. Groups must select a member to act as the contact person and assume responsibility for the group. The contact person will complete the Meeting Room Request Sheet and must be a Des Plaines resident with a currently valid Des Plaines library card.
 2. Meeting rooms may be booked for up to four months in advance.
 3. There will be a $15 fee for each use of a meeting room. Booking Rooms B and C together as one large room will require a $30 fee.
@@ -72,6 +73,7 @@ All groups must complete the Meeting Room Request form online.
 11. Groups other than Friends of the Library may not receive mail at the library's address.
 
 **Exceptions**
+
 Any exceptions must be approved by the Library Director.
 
 Note: Sundays and Wednesdays are not available due to regularly scheduled library programming. Also, groups are responsible for restoring meeting rooms and pantry to the condition in which they were prior to the meeting.
