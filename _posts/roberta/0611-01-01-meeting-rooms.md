@@ -37,9 +37,10 @@ All other room requests must be received no later than Wednesday the week prior 
 
 If you have any questions please contact us at [Reservroom@dppl.org]() or 847-376-2780.
 
-To reserve a room you must agree to the Meeting Room Use policy:
+##Meeting Room Use Policy
 
 **Types of Meetings**
+
 All meetings are free and open to the public. Priority for meeting room use is as follows:
 1. Library sponsored programs and meetings.
 2. Library-related programs and meetings including Friends of the Library, Learn to Read. 
@@ -47,6 +48,7 @@ All meetings are free and open to the public. Priority for meeting room use is a
 4. Meetings of other nonprofit groups the majority of whose members are residents of Des Plaines. 
 
 **Reservations**
+
 All groups must complete the Meeting Room Request form online.
 1. Groups must select a member to act as the contact person and assume responsibility for the group. The contact person will complete the Meeting Room Request Sheet and must be a Des Plaines resident with a currently valid Des Plaines library card.
 2. Meeting rooms may be booked for up to four months in advance.
@@ -69,7 +71,7 @@ All groups must complete the Meeting Room Request form online.
 10. The piano may not be used as a practice instrument.
 11. Groups other than Friends of the Library may not receive mail at the library's address.
 
-Exceptions
+**Exceptions**
 Any exceptions must be approved by the Library Director.
 
 Note: Sundays and Wednesdays are not available due to regularly scheduled library programming. Also, groups are responsible for restoring meeting rooms and pantry to the condition in which they were prior to the meeting.
