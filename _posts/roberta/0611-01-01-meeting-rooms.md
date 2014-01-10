@@ -15,7 +15,7 @@ published: true
 
 ##Public Meeting Rooms
 
-**Small group (up to eight people) study rooms**are available on the third and fourth floor. Sorry, no food is allowed.
+**Small group (up to eight people) study rooms** are available on the third and fourth floor. Sorry, no food is allowed.
 
 - Please sign up for a room at the Information Desk.
 
@@ -33,7 +33,52 @@ published: true
 
 - In mid-August for requests in September-December
 
+All other room requests must be received no later than Wednesday the week prior to the event. Your request will be reviewed and you will be notified if it has been accepted.  All equipment must be requested when you reserve the room to insure that it is available for your meeting. If you need training to use the equipment, you must make an appointment in advance at the Registration Desk.
 
+If you have any questions please contact: Reservroom@dppl.org or 847-376-2780
+
+To reserve a room you must agree to the Meeting Room Use policy:
+
+ Types of Meetings
+All meetings are free and open to the public. Priority for meeting room use is as follows:
+
+    Library-sponsored programs and meetings.
+    Library-related programs and meetings including Friends of the Library, Learn to Read.
+    Meetings of nonprofit Des Plaines Community groups or organizations whose aims are educational, cultural, or civic in nature.
+    Meetings of other nonprofit groups the majority of whose members are residents of Des Plaines.
+
+Reservations
+
+    All groups must complete the Meeting Room Request form online.
+    Groups must select a member to act as the contact person and assume responsibility for the group. The contact person will complete the Meeting Room Request Sheet and must be a Des Plaines resident with a currently valid Des Plaines library card.
+    Meeting rooms may be booked for up to four months in advance.
+    There will be a $15 fee for each use of a meeting room. Booking Rooms B and C together as one large room will require a $30 fee. (Read more about our meeting room fees here).
+    Groups must select the room setup style from the Meeting Room Setup Options. If necessary, library staff will provide instruction on equipment operation if requested prior to the meeting date.
+    A representative of the group must complete a Record of Meeting Room Use form after each use and before leaving the building.
+    As a courtesy, the library requests that groups notify the Registration Desk of a cancellation no less than 24 hours before the scheduled meeting.
+    The library reserves the right to change or cancel meeting room reservations due to unusual circumstances and will notify groups at least 48 hours before the scheduled meeting.
+
+Rules of Use
+
+    Groups may use the meeting rooms only during hours the library is open to the public. In special circumstances, the Library Director may grant permission for a group to use a meeting room after library hours. The group would then be required to reimburse the library for the cost of extending the hours of library security personnel.
+    After the library has been closed to the public, members of groups using the meeting rooms are restricted to the meeting room and the designated corridors used to leave the building.
+    Groups are responsible for restoring meeting rooms and pantry to the condition prior to their meeting.
+    Groups are responsible for the cost of repairing damage to equipment, furniture, or the building caused by people in attendance at their meeting.
+    Groups may not charge admission nor require donations for their meetings.
+    Nothing may be sold to the public in the library without permission from the Library Director.
+    Smoking is not permitted in the library.
+    Food and non-alcoholic beverages may be served in designated areas. The groups or caterer must provide all paper goods and serving utensils.
+    Groups may use the pantry that is adjacent to the meeting rooms for food preparation, but may not store anything in the cabinets or refrigerator.
+    The piano may not be used as a practice instrument.
+    Groups other than Friends of the Library may not receive mail at the library's address.
+
+Exceptions
+Any exceptions must be approved by the Library Director.
+
+Note: Sundays and Wednesdays are not available due to regularly scheduled library programming. Also, groups are responsible for restoring meeting rooms and pantry to the condition in which they were prior to the meeting.
+Meeting Room Request Form
+
+Please agree to the meeting room request policy then click "Submit." You will be taken to the Room Request page. Select the month, the date, the room and the time. Then click Continue, and complete the Contact Information. 
 
 
 
