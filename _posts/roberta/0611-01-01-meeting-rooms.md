@@ -35,7 +35,7 @@ published: true
 
 All other room requests must be received no later than Wednesday the week prior to the event. Your request will be reviewed and you will be notified if it has been accepted.  All equipment must be requested when you reserve the room to insure that it is available for your meeting. If you need training to use the equipment, you must make an appointment in advance at the Registration Desk.
 
-If you have any questions please contact us at [Reservroom@dppl.org]() or 847-376-2780.
+Please review our Meeting Room Policy below before you complete our [Meeting Room Request Form](). If you have any questions please contact us at [Reservroom@dppl.org]() or 847-376-2780.
 
 ##Meeting Room Use Policy
 
