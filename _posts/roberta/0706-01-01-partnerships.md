@@ -15,8 +15,13 @@ published: true
 
 We work with many local organizations to provide great programs and services for our community.
 
-## Partnership and funding opportunities
-We'd love to work with your organization too! Contact me if you want to know more about funding a program here at the library. 
+## Partnering and funding opportunities
+We'd love to work with your organization too! Here are some of the events and programs you can help support:
+
+- Materials and prizes for summer and winter reading programs
+- Speakers for programs and events
+
+Contact me if you want to know more about funding a program here at the library. 
 
 ## Some of our community partnerships
 
@@ -32,7 +37,7 @@ The Friends of the Des Plaines Public Library have been faithful and prolific fu
 
 The Des Plaines Park District works with us to bring storytelling and other activities to their seasonal festivals and in turn supports our annual Battle of the Bands and Des Arts fine art programming.
 
-## Kiwanis Club of Des Plaines
+### Kiwanis Club of Des Plaines
 The Kiwanis Club of Des Plaines is a proud financial supporter of the second floor Early Learning Center (construction beginning in 2014). The library's director, Holly Sorensen, is an active member of Kiwanis too.
 
 ### Lattof YMCA
