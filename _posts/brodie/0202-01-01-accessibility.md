@@ -6,18 +6,18 @@ section: visit
 author: Brodie
 layout: post
 title: Accessibility
-audience: ""
-keywords: ""
-goals: ""
+audience: Users looking for accessibility info
+keywords: "accessibility, adaptive, special needs"
+goals: How we make the library accessible for users with special needs
 actions: ""
 published: true
 ---
 
 We strive to make the library, our colletions, and services accessibile to everyone in the community. Here are some of the ways we make the library more accessible for you if you have special needs or accomodations.
 
-## Our building
+## Getting help at the library
 
-All of the main entrances to the library open automatically or have assistant buttons. 
+Any of our staff members will be happy to help you if you need extra help or assistance while you're here at the library.
 
 ## Adaptive or assistive equipment
 
@@ -46,4 +46,10 @@ If you have a qualifying disability and a library card, you may be elibible to d
 ## Programs & events
 
 Coming to an event or program and need special accomodations? Be sure to let XXX know.
+
+[footer]
+Can't make it the library?
+
+If you can't come to the library due to a disability or special need, you might be eligible for homebound deliver.
+[/footer]
 
