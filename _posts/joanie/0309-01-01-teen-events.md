@@ -17,11 +17,11 @@ The library offers some great programs for teens, from Anime Club to ACT prepara
 
 ##Monthly Teen Programs##
 
-**Anime Club** – For teens in 7th -12th grade. Meets one Thursday a month from 5-6:30 in Meeting Room C.   
+**Anime Club** – For teens in 7th -12th grade. Anime Club is for teens who want to get together with other fans of anime and manga. join us to watch your favorite anime, read and discuss manga, create your own artwork, and treat yourself to some Japanese snacks. Meets one Thursday a month from 5-6:30 in Meeting Room C.   
 
-**Teen Advisory Board (TAB)** – For teens in 7th – 12th grade. Meets one Thursday a month from 4-5. TAB members also volunteer at the library as needed.  
+**Teen Advisory Board (TAB)** – For teens in 7th – 12th grade. TAB is where teens come to tell us librarians what the library should be doing for teens like you. Meets one Thursday a month from 4-5. TAB members also volunteer at the library as needed.  
 
-**Cards For Hospitalized Kids** – For teens in 6th-12th grade. Make Cards for Hospitalized Kids one Saturday a month in the Teen Lounge from 1-3 (or any amount of time you can give).  
+**Cards For Hospitalized Kids** – For teens in 6th-12th grade. One Saturday a month, the Teen Lounge is the place to be to make cards for kids in the hospital. We supply the materials and suggested messages--you supply your creativity and energy. Meets in the Teen Lounge from 1-3 (or any amount of time you can give).  
 
 ##ACT Preparation##
 
