@@ -29,7 +29,8 @@ ________________________________________
 ###We can help with your own book club too. 
 
 If you are looking for multiple copies of a book or help preparing for your next discussion, [send us an email](link to readers’ services desk email), or call us at 847-376-2913, or fill out this form: 
-“Name
+
+> Name
 Phone number 
 Email address
 How would you like us to contact you?
@@ -39,6 +40,6 @@ Date of book discussion
 How many copies do you need?
 Do you need books with large print or audiobooks? If yes, how many?
 Would you like a list of discussion questions or biographical information about the author?
-Would you like information about scheduling a guest discussion leader from the library staff?”
+Would you like information about scheduling a guest discussion leader from the library staff?
 
-[Here are some of the books we have discussed in the library in the past.](link to Book Group books in the catalog)
+[You can browse some of the books from past discussions.](link to Book Group books in the catalog)
