@@ -13,10 +13,7 @@ actions: ""
 published: true
 ---
 
-We work with many local organizations to provide great programs and services for our community.
-
-## Partnering and funding opportunities
-We'd love to work with your organization too! Here are some of the events and programs you can help support:
+We work with many local groups to provide great programs and services for our community. We'd love to work with your organization too! Here are some of the events and programs you can help support:
 
 - Materials and prizes for summer and winter reading programs
 - Speakers for programs and events
