@@ -13,7 +13,7 @@ actions: ""
 published: true
 ---
 
-The library offers some great programs for teens, from Anime Club to ACT preparation. Be sure to check out the calendar for new and upcoming events. 
+The library offers great programs for teens, from Anime Club to ACT preparation. Be sure to check out the calendar for new and upcoming events. 
 
 **Anime Club** – For teens in 7th -12th grade. Anime Club is for teens who want to get together with other fans of anime and manga. join us to watch your favorite anime, read and discuss manga, create your own artwork, and treat yourself to some Japanese snacks. Meets one Thursday a month from 5-6:30 in Meeting Room C.   
 
