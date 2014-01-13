@@ -49,28 +49,32 @@ All meetings are free and open to the public. Priority for meeting room use is a
 
 **Reservations**
 
-All groups must complete the [Meeting Room Request form]() online.
+All groups must complete the [Meeting Room Request Form]() online.
 
 1. Groups must select a member to act as the contact person and assume responsibility for the group. The contact person will complete the Meeting Room Request Sheet and must be a Des Plaines resident with a currently valid Des Plaines library card.
 2. Meeting rooms may be booked for up to four months in advance.
-3. There will be a $15 fee for each use of a meeting room. Booking Rooms B and C together as one large room will require a $30 fee.
+3. There is a $15 fee for each use of a meeting room. Booking Rooms B and C together as one large room will require a $30 fee.
 4. Groups must select the room setup style from the Meeting Room Setup Options. If necessary, library staff will provide instruction on equipment operation if requested prior to the meeting date.
 5. A representative of the group must complete a Record of Meeting Room Use form after each use and before leaving the building.
 6. As a courtesy, the library requests that groups notify the Registration Desk of a cancellation no less than 24 hours before the scheduled meeting.
 7. The library reserves the right to change or cancel meeting room reservations due to unusual circumstances and will notify groups at least 48 hours before the scheduled meeting.
 
 **Rules of Use**
-1. Groups may use the meeting rooms only during hours the library is open to the public. In special circumstances, the Library Director may grant permission for a group to use a meeting room after library hours. The group would then be required to reimburse the library for the cost of extending the hours of library security personnel.
-2. After the library has been closed to the public, members of groups using the meeting rooms are restricted to the meeting room and the designated corridors used to leave the building.
-3. Groups are responsible for restoring meeting rooms and pantry to the condition prior to their meeting.
-4. Groups are responsible for the cost of repairing damage to equipment, furniture, or the building caused by people in attendance at their meeting.
-5. Groups may not charge admission nor require donations for their meetings.
-6. Nothing may be sold to the public in the library without permission from the Library Director.
-7. Smoking is not permitted in the library.
-8. Food and non-alcoholic beverages may be served in designated areas. The groups or caterer must provide all paper goods and serving utensils.
-9. Groups may use the pantry that is adjacent to the meeting rooms for food preparation, but may not store anything in the cabinets or refrigerator.
-10. The piano may not be used as a practice instrument.
-11. Groups other than Friends of the Library may not receive mail at the library's address.
+1. Groups may use the meeting rooms only during hours the library is open to the public. In special circumstances, the Library Director may grant permission for a group to use a meeting room after library hours. The group would then be required to reimburse the library for the cost of extending the hours of library security personnel. After the library has been closed to the public, members of groups using the meeting rooms are restricted to the meeting room and the designated corridors used to leave the building.
+2. Groups are responsible for restoring meeting rooms and pantry to the condition prior to their meeting.
+3. Groups are responsible for the cost of repairing damage to equipment, furniture, or the building caused by people in attendance at their meeting.
+4. Groups may not charge admission nor require donations for their meetings.
+5. Nothing may be sold to the public in the library without permission from the Library Director.
+6. Smoking is not permitted in the library.
+7. Food and non-alcoholic beverages may be served in designated areas. The groups or caterer must provide all paper goods and serving utensils.
+8. Groups may use the pantry that is adjacent to the meeting rooms for food preparation, but may not store anything in the cabinets or refrigerator.
+9. The piano may not be used as a practice instrument.
+10. Groups other than Friends of the Library may not receive mail at the library's address.
+
+**Fees**
+
+1. Nonprofit organizations - $15 per use.
+2. All fees for meeting room use are non-refundable.
 
 **Exceptions**
 
@@ -79,9 +83,4 @@ Any exceptions must be approved by the Library Director.
 Note: Sundays and Wednesdays are not available due to regularly scheduled library programming. Also, groups are responsible for restoring meeting rooms and pantry to the condition in which they were prior to the meeting.
 Meeting Room Request Form
 
-Please agree to the meeting room request policy then click "Submit." You will be taken to the Room Request page. Select the month, the date, the room and the time. Then click Continue, and complete the Contact Information. 
-
-
-
-
-
+Please agree to the meeting room request policy then click "Submit." You will be taken to the Room Request page. Select the month, the date, the room and the time. Then click Continue, and complete the Contact Information.
