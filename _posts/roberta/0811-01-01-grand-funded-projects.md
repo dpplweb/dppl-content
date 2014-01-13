@@ -31,5 +31,5 @@ The library spent these funds on books for our World Language collections, parti
 
 **2008 Special Families Need Special Libraries - $13,517**
 
-The library was awarded a $13,517.00 grant by the Illinois State Library for a year-long project entitled "Special Families Need Special Libraries." Library staff wrote this grant to increase awareness of autism and add materials, including books, magazines and DVDs of interest to families affected by autism. The library staff was trained to understand and better serve the special needs of children and adults on the spectrum.
+Library staff wrote this grant for a year-long project entitled "Special Families Need Special Libraries." Library staff wrote this grant to increase awareness of autism and add materials, including books, magazines and DVDs of interest to families affected by autism. The library staff was trained to understand and better serve the special needs of children and adults on the spectrum.
 
