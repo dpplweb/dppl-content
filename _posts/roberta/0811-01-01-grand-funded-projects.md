@@ -23,6 +23,9 @@ In 2013 we were awarded $59,977.76, which was spent on an e-resources marketing 
 
 In past years the Per Capita Grant has been used for the library newsletter, portable scanning equipment, filming select library programs for local cable, translating services, and staff training.
 
+**2013 Library Journal Index**
+
+We received three stars in this national rating of public libraries. The stars are given for success in programming, library visits, public computer usage, and circulation. In 2013 the community borrowed over 1.2 million items from the library, and made over 500,000 library visits!
 
 **2013 Back to the Books - $4,000**
 
