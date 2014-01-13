@@ -6,8 +6,8 @@ section: about
 author: Roberta
 layout: post
 title: "Grant-funded projects and other awards"
-audience: ""
-keywords: ""
+audience: "library patrons, library staff"
+keywords: partial record of grants and grant projects
 goals: ""
 actions: ""
 published: true
@@ -17,9 +17,11 @@ The library has earned multiple grants and awards over the years. Our primary so
 
 **Annual Per Capita Grant**
 
-Every year the library applies for a state grant based on population size. The board and staff decide each year to which special projects these funds will be devoted.
+Every October we apply for a state grant based on our population size. The board and staff decide each year to which special projects these funds will be devoted.
 
 In 2013 we were awarded $59,977.76, which was spent on an e-resources marketing campaign, an Early Literacy Internship, digitization of library materials, the first stage of our Early Learning Center and replacing CD shelving on the third floor.
+
+In past years the Per Capita Grant has been used for the library newsletter, portable scanning equipment, filming select library programs for local cable, translating services, and staff training.
 
 
 **2013 Back to the Books - $4,000**
