@@ -43,7 +43,7 @@ The Lattof YMCA welcomes our Youth Services staff into its preschool and sends t
 
 ### Local businesses
 
-Local businesses like Millennium Bank, the Greek American Restaurant Association, Village Bank and Trust and . . . have provided financial support for Summer Reading Club events and prizes. 
+Local businesses like Millennium Bank, the Greek American Restaurant Association, Village Bank and Trust and others have provided financial support for Summer Reading Club events and prizes. 
 
 ### Local schools 
 Our local schools encourage their students to get and use library cards, bring parents and kids on tours of the library, and promote our family programs in their emails and newsletters. Our librarians reguarly go to the local schools on outreach visits to promote our collections and services.
