@@ -56,6 +56,6 @@ Oakton Community College is our longtime partner in providing adult literacy, co
 
 ### Rotary Club of Des Plaines 
 
-The Rotary Club of Des Plaines funded the beautiful Rotary Heritage Reading Room on the third floor, as well as other individual programs. Our Assistant Directory (that's me) represents the library at Rotary meetings and events.
+The Rotary Club of Des Plaines funded the beautiful Rotary Heritage Reading Room on the third floor, as well as other individual programs. Our Assistant Director (that's me) represents the library at Rotary meetings and events.
 
 Thanks to these organizations and *all* of the individuals that help us be the best library we can possibly be.
