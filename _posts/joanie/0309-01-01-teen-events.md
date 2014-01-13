@@ -15,9 +15,9 @@ published: true
 
 
 
-###Monthly Teen Programs###  
+##Monthly Teen Programs##
 
->Anime Club – For teens in 7th -12th grade. Meets one Thursday a month from 5-6:30 in Meeting Room C.   
+Anime Club – For teens in 7th -12th grade. Meets one Thursday a month from 5-6:30 in Meeting Room C.   
 
 Teen Advisory Board (TAB) – For teens in 7th – 12th grade. Meets one Thursday a month from 4-5. TAB members also volunteer at the library as needed.  
 
