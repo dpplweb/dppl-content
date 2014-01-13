@@ -21,11 +21,11 @@ Our newest program to encourage young readers!  Starting in the Fall of 2014, yo
 **Activities**
 At the library, we host story and music programs for our youngest customers because we want to help them practice their skills, but also to help show parents how to exhibit, play, or perform so that their child can learn these skills at home.  We also have interactive play activities on the 2nd floor where you and your child can have fun and they can learn something as well.
 
-**Articles**
-If you are interested in why we do what we do or the science behind early literacy skills, check out these articles:
+**Articles and Information**
+If you are interested in why we do what we do, the science behind early literacy skills, or tips for helping your child, check out these articles:
 
 - Helping Preschool Children Become Readers: tips for parents (PDF of article)
-- item
+- Some ABCs for Raising a Reader (PDF of article)
 - item
 
 **Every Child Ready to Read**
@@ -33,4 +33,3 @@ Every Child Ready to Read is a program developed by the Association for Library 
 
 **Rennovation**
 You may have noticed some changes going on on the 2nd floor of the library.  Recently we had to get rid of the Friend Ship and we have started moving around the different collections.  We aren't doing it just to drive you crazy as you try to find the CD your child HAS to have, we are actually making more room in the storytime room to accomodate our successful programming schedule, creating a destination for you and your family to learn together, and making the floor more inviting for our youngest guests.  We know that during the rennovation it can be hard to see how wonderful the floor will become, but we hope you will be patient and in the end get excited as we are the 2nd floor changes into your early literacy oasis.
-
