@@ -28,7 +28,7 @@ The Friends of the Des Plaines Public Library have been faithful and prolific fu
 
 ### Des Plaines Chamber of Commerce
 
-[insert something]
+We work with the Chamber to provide programming that supports our small businesses, such as online marketing and other digital learning. We also provide space for the Chamber every year during the Summer Fling to promote the Chamber and its activities. In turn the Chamber promotes our activities in its newsletter and to its other members.
 
 ### Des Plaines Park District
 
