@@ -13,7 +13,7 @@ actions: ""
 published: true
 ---
 
-
+The library offers some great programs for teens, from Anime Club to ACT preparation. Be sure to check out the calendar for new and upcoming events. 
 
 ##Monthly Teen Programs##
 
@@ -37,4 +37,3 @@ Our teen book club, **Shelfies**, meets every other month to hang out, drink cof
 Are you a solo musician or in a band? Our annual battle of the bands is a great opportunity for you to play at great outdoor music event and win awesome cash prizes. E-mail Joanie at jsebastian@dppl.org for information.  
 
 **Need Community Service Hours?** Go here for information on volunteering at the library.
-
