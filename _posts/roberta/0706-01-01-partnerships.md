@@ -38,7 +38,7 @@ The Friends of the Des Plaines Public Library have been faithful and prolific fu
 The Des Plaines Park District works with us to bring storytelling and other activities to their seasonal festivals and in turn supports our annual Battle of the Bands and Des Arts fine art programming.
 
 ### Kiwanis Club of Des Plaines
-The Kiwanis Club of Des Plaines is a proud financial supporter of the second floor Early Learning Center (construction beginning in 2014). The library's director, Holly Sorensen, is an active member of Kiwanis too.
+The Kiwanis Club of Des Plaines is a proud financial supporter of the second floor Early Learning Center (construction beginning in 2014). The library's director, Holly Sorensen, is a past President and an active member of Kiwanis too.
 
 ### Lattof YMCA
 
