@@ -15,11 +15,14 @@ published: true
 
 We meet in the Rotary Heritage Room on the 3rd floor. You can get your book one month prior at the Readers Services Desk.
 
-###[Tuesday Morning Group](link to latest evanced entry) meets the first Tuesday of each month at 10:00 am.
+###[Tuesday Morning Group](link to latest evanced entry) 
+The Tuesday morning group meets the first Tuesday of each month at 10:00 am.
 
-###[Thursday Evening Group](link to latest evanced entry) meets the second Thursday of each month at 7:30 pm.
+###[Thursday Evening Group](link to latest evanced entry) 
+The Thursday morning group meets the second Thursday of each month at 7:30 pm.
 
-###[Books to Film](link to latest evanced entry) meets a few times a year in a 1st floor meeting room. We show a film, then talk about it in comparison with the book. Snacks are served during the discussion. 
+###[Books to Film](link to latest evanced entry) 
+The Books to Film group meets a few times a year in a 1st floor meeting room. We show a film, then talk about it in comparison with the book. Snacks are served during the discussion. 
 
 ##Upcoming Books 
 [images of book jackets](links to multiple formats of book in catalog)
