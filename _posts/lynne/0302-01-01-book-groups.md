@@ -13,25 +13,40 @@ actions: "read about book group options, register for a book discussion, find th
 published: true
 ---
 
+Engage in lively conversation with fellow book lovers about books that matter. Library staff help recommend good books and lead discussions.
+
+## What we're reading next
+[images of book jackets](links to multiple formats of book in catalog)
+
+[You can browse some of the books from past discussions.](link to Book Group books in the catalog)
+
+## Participating in a book group
+
 We meet in the Rotary Heritage Room on the 3rd floor. You can get your book one month prior at the Readers Services Desk.
 
-###[Tuesday Morning Group](link to latest evanced entry) 
+We offer the following book groups on a regular basis:
+
+### [Tuesday Morning Group](link to latest evanced entry) 
 The Tuesday morning group meets the first Tuesday of each month at 10:00 am.
 
-###[Thursday Evening Group](link to latest evanced entry) 
+### [Thursday Evening Group](link to latest evanced entry) 
 The Thursday morning group meets the second Thursday of each month at 7:30 pm.
 
-###[Books to Film](link to latest evanced entry) 
+### [Books to Film](link to latest evanced entry) 
 The Books to Film group meets a few times a year in a 1st floor meeting room. We show a film, then talk about it in comparison with the book. Snacks are served during the discussion. 
 
-##Upcoming Books 
-[images of book jackets](links to multiple formats of book in catalog)
-________________________________________
-##Home Book Groups
-
-###We can help with your own book club too. 
+## We can help with your own book club too. 
 
 If you are looking for multiple copies of a book or help preparing for your next discussion, [send us an email](link to readers’ services desk email), or call us at 847-376-2913, or fill out this form: 
+
+[footer]
+## Book groups for kids and teens
+
+We have many ways for kids and teens to get excited about reading and books too.
+[/footer]
+
+________________________________________
+##Home Book Groups
 
 - Name
 - Phone number 
@@ -45,4 +60,3 @@ If you are looking for multiple copies of a book or help preparing for your next
 - Would you like a list of discussion questions or biographical information about the author?
 - Would you like information about scheduling a guest discussion leader from the library staff?
 
-[You can browse some of the books from past discussions.](link to Book Group books in the catalog)
