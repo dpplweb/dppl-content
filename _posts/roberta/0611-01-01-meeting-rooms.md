@@ -13,29 +13,40 @@ actions: ""
 published: true
 ---
 
-##Public Meeting Rooms
+## Study rooms
 
-**Small group (up to eight people) study rooms** are available on the third and fourth floor. Sorry, no food is allowed.
+We have study rooms on the third and fourth floor. They're perfect for study groups or small meetings. Each study room has table and chairs. You can connect to our WiFi network too. 
 
-- Please sign up for a room at the Information Desk.
+To reserve a study room:
 
-- Advance reservations are available to Des Plaines Library cardholders, up to two days in advance.
-
+- Sign up for a room at the Information Desk on the 3rd of 4th floor.
 - Rooms may be reserved for a maximum of two hours per day.
+- If you have a DPPL library card, you reserve a room up to two days in advanc
+- _Sorry, no food is allowed._
 
-- For reservations; 3rd floor, call (847) 376-2840; 4th floor, call (847) 376-2841.
+For reservations; 3rd floor, call (847) 376-2840; 4th floor, call (847) 376-2841.
 
-**Larger meeting rooms are available on the first floor** for a $15 usage fee per booking. Advance room requests are reviewed as follows: 
+## Public meeting rooms 
+We have three public meeting rooms on the first floor. These rooms are prefect for larger events. They have projectors, sound systems, and access to our WiFi network.
+
+**There is a a $15 usage fee per booking.** 
+
+### When to make a meeting room request
+Advance room requests are reviewed as follows: 
 
 - In mid-December for requests in January-April 
-
 - In mid-April for requests in May-August 
-
 - In mid-August for requests in September-December
 
-All other room requests must be received no later than Wednesday the week prior to the event. Your request will be reviewed and you will be notified if it has been accepted.  All equipment must be requested when you reserve the room to insure that it is available for your meeting. If you need training to use the equipment, you must make an appointment in advance at the Registration Desk.
+All other room requests must be received no later than Wednesday the week prior to the event. 
 
-Please review our Meeting Room Policy below before you complete our [Meeting Room Request Form](). If you have any questions please contact us at [Reservroom@dppl.org]() or 847-376-2780.
+### How requests are reviewed
+
+Your request will be reviewed and you will be notified if it has been accepted.  All equipment must be requested when you reserve the room to insure that it is available for your meeting. If you need training to use the equipment, ask at the Registration Desk to get an appointment before your meeting.
+
+### Make a request
+
+Please review our Meeting Room Policy below before you complete our [Meeting Room Request Form](). If you have any questions, please contact me or call 847-376-2780.
 
 ##Meeting Room Use Policy
 
