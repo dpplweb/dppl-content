@@ -34,8 +34,26 @@ Information on athletes, entertainers, politicians, historical figures, authors,
 ###BookFLIX
 Explore animated versions of favorite children's picture books and related nonfiction ebooks in one of nine learning categories. Also includes Spanish titles and educational games.
 
+###Chicago Sun-Times
+Full text from 1986 to the present.
+
+###Chicago Tribune
+Full text from 1985 to the present.
+
+###Chicago Tribune - Proquest Historical Newspapers
+Full text of the newspaper from 1849-1989.
+
+###Chicago Tribune Digital Microfilm
+The Chicago Tribune and the New York Times are now available on digital microfilm. Full image content is available beginning in 2008 (there is a 2–3 month lag before the newspapers appear). The content is browsable but not searchable.
+
+###Chicago Historical Archive
+Coverage of major stories from the 1920s through 1984, front pages from 1900–1984. Obituaries and death notices from 1860–1984. Dates are irregular.
+
 ###Contemporary Authors
 Full text articles on over 100,000 authors.
+
+###Daily Herald
+Full text from 1995 to the present.###
 
 ###Enciclopedia estudiantil hallazgos
 Información sobre gente, lugares, objetos, acontecimientos e ideas. 
