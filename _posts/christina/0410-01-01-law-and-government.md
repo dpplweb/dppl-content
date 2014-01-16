@@ -7,7 +7,7 @@ author: Christina
 layout: post
 title: Law and government
 audience: "adults, teenagers"
-keywords: "law, legal, statistics, voting, voters, elections, politics, politicians, polling place"
+keywords: "legal research, law, legal, statistics, voting, voters, elections, politics, politicians, polling place, Nolo guides"
 goals: ""
 actions: ""
 published: true
