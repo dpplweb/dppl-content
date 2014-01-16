@@ -15,15 +15,23 @@ published: true
 
 **##  SUBSCRIPTION DATABASES - DPPL library card required from home.**
 
-These databases can help you with personal or academic research related to law, politics and economics. 
+These databases can help you with personal or academic research related to law, politics and economics. If you just need a legal form, check out Legal Forms Library or Legal Information Reference Center.
 
 ### Law and Government ebooks
 
 This is a collection of ebooks on law, government and political theory. 
 
+### Legal Forms Library
+
+Find forms for divorce, leases, wills, power of attorney, name changes and more.
+
 ### Lexis Library Express
 
-This database includes state, federal and landmark court cases as well as state statutes. It also includes law review articles and other sources for doing legal resarch. Legal sources only available at the library.
+Click on the Legal tab in this database to find state, federal and landmark court cases as well as state statutes. It also includes law review articles and other sources for doing legal resarch. The legal sources are only available at the library.
+
+### Legal Information Reference Center
+
+This database includes commonly used legal forms and the popular Nolo guides to answer your everyday legal questions.
 
 ### Statistical Abstract of the United States
 
