@@ -36,6 +36,10 @@ This database includes commonly used legal forms and the popular Nolo guides to 
 ### Statistical Abstract of the United States
 
 This is an excellent source for statistics on the social, political, and economic conditions of the United States. New data is added monthly.
+
+### Very Short Introductions
+
+Experts in their fields explain; History of Law, Human Rights and Immigration, Jurisprudence and Philosophy of Law, Legal System and Practice, Medical and Healthcare Law and Policing.
  
 ### OUR FAVORITE WEB SITES
 
