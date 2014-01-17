@@ -6,7 +6,7 @@ section: support-the-library
 
 <h2>{{ page.title }}</h2>
 <ul class="posts">
-{% for post in site.categories['support-the-library'] %}
+{% for post in site.categories['support-the-library'] reversed %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>

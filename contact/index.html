@@ -6,7 +6,7 @@ section: contact
 
 <h2>{{ page.title }}</h2>
 <ul class="posts">
-{% for post in site.categories['contact'] %}
+{% for post in site.categories['contact'] reversed %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>

@@ -3,7 +3,7 @@ owner: Des Plaines Public Library
 baseurl: /dppl-content
 permalink: none
 markdown: redcarpet
-pygments: true
+pygments: false
 authors: [brodie, carol, roberta, john, cathy, lynne, cheryl, heather, christina, joanne, sara, courtney, joanie]
 sections: [home, visit, calendar, resources, books-movies-music, patron-services, support-the-library, about, blog, newsletter, contact]
 prose:
