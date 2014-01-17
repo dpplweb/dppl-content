@@ -33,40 +33,40 @@ Read 50 books for each patch. See book list for specific instructions and requir
 - [Read to Me Again]()
 - [Kindergarten Star]()
 - [Animal Stories]()
-- [Award Winners]()
-- [Fairy Tales]()
+- [Award Winners](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/200471843_dppl_patch_club_read_to_me_-_award_winners)
+- [Fairy Tales](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/200538603_dppl_patch_club_read_to_me_-_fairy_tales)
 
 ### Early Readers: Preschool - Grade 2
 Read 20 books for each patch. See book list for specific instructions and requirements. Choose:
 
 - [I Can Read]() [link to pdf or other list]
 - [I Can Read More]()
-- [Adventure]()
-- [Fantasy]()
-- [Graphic Format]()
-- [Historical]()
-- [Rebus Readers]()
+- [Adventure](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/201128603_dppl_patch_club_early_readers_-_adventure_patch)
+- [Fantasy](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/201133093_dppl_patch_club_early_readers_-_fantasy_patch)
+- [Graphic Format](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/201135673_dppl_patch_club_early_readers_-_graphic_format_patch)
+- [Historical](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/201138241_dppl_patch_club_early_readers_-_historical_fiction_patch)
+- [Rebus Readers](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/201141793_dppl_patch_club_early_readers_-_rebus_patch)
 
 ### Independent Readers: Grades 2 - 8
 Read eight books for each patch. Four books should come from the the book list and four of your choice in the genre. Choose:
 
-- [Adventure]() [link to pdf or other list]
+- [Adventure](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/192796863_dppl_patch_club_adventure_book_list) [link to pdf or other list]
 - [Award]()
-- [Biography]()
-- [Explore the World]()
-- [Fantasy]()
-- [Folk Tales]()
-- [Get Creative]()
-- [Go Green]()
-- [Historical Fiction]()
-- [Just the Facts]()
-- [Kids' Picks]()
-- [Mystery]()
-- [Poetry]()
-- [Reading the Classics]()
-- [Scary Stories]()
-- [Science Fiction]()
-- [Sports]()
+- [Biography](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214211405_dppl_patch_club_biography)
+- [Explore the World](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214218815_dppl_patch_club_explore_the_world)
+- [Fantasy](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214219126_dppl_patch_club_fantasy)
+- [Folk Tales](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214219585_dppl_patch_club_folk_tales)
+- [Get Creative](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/216660795_dppl_patch_club_get_creative)
+- [Go Green](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214247555_dppl_patch_club_go_green)
+- [Historical Fiction](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214249645_dppl_patch_club_historical_fiction)
+- [Just the Facts](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214246875_dppl_patch_club_just_the_facts)
+- [Kids' Picks](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214249845_dppl_patch_club_kids_picks)
+- [Mystery](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214250235_dppl_patch_club_mystery)
+- [Poetry](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214250426_dppl_patch_club_poetry)
+- [Reading the Classics](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214250765_dppl_patch_club_reading_the_classics)
+- [Scary Stories](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214251575_dppl_patch_club_scary_stories)
+- [Science Fiction](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214251655_dppl_patch_club_science_fiction)
+- [Sports](http://dppl.bibliocommons.com/list/show/97984016_dppl_ys/214252078_dppl_patch_club_sports_book)
 
 ## Summer Reading Club 
 [intruder??]
