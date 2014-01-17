@@ -103,6 +103,13 @@ Over 150 articles in 12 different categories introduce young researchers to the 
 ###Searchasaurus
 Search by keyword or by topic to find the most useful search results. Geared to younger students.
 
+###TrueFLIX
+TrueFLIX – People, Places, and History
+Includes American Indians, Ancient Civilizations, The Civil War, Continents, U.S. Government, U.S. Regions, Westward Expansion. For 3rd – 6th grades. 
+
+TrueFLIX – Science and Nature
+Includes Disasters, Earth Science, Ecosystems, Experiments, Extreme Nature, Human Body, Space. For 3rd – 6th grades.
+
 ###TumbleBook Library
 A collection of animated, talking picture books, puzzles, and games. Includes books in Spanish and French.
 
