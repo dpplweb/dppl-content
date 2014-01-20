@@ -233,6 +233,9 @@ The Chicago Tribune and the New York Times are now available on digital microfil
 ###Kids Search
 An easy way to find information about everything from animals to current events. Perfect for research projects!
 
+###Middle Search Plus
+Full text articles and biographies for middle-school students.
+
 ###National Geographic
 Get great stories and photographs from _National Geographic_ magazine. You'll find over 100 years' worth of materials (from 1988 to 1994). 
 
