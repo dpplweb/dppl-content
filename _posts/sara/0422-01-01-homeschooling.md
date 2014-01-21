@@ -33,13 +33,11 @@ H.O.U.S.E. (Home Oriented Unique Schooling Experience) is a nonsectarian  statew
 - [Illinois Home Education](http://www.illinoishomeeducation.org/home.htm)
 Started and maintained by an Illinois family, this website provides comprehensive links to a variety of homeschooling resources, including Illinois laws.
 
+- [Illinois State Board of Education Homeschool Information](http://www.isbe.state.il.us/homeschool/default.htm)
+Information about homeschooling requirements in Illinois, including a comprehensive FAQ.
+
 - [Johnsburg Public Library Homeschool Resource Center](http://www.johnsburglibrary.org/content/homeschool-resource-center)
-Established in 2001 from a $55,000 grant, this center offers a variety of materials which can be checked out by anyone with a valid Illinois library card. Their collection includes:
-- books and magazines about homeschooling
-- curriculum materials for all grade levels and in many formats
-- science equipment such as glassware, microscopes and telescopes and kits for learning about everything from DNA to optics
-- math manipulatives
-- educational board games, software and music
-- catalogs from homeschool suppliers
+Established in 2001 from a $55,000 grant, this center offers a variety of materials which can be checked out by anyone with a valid Illinois library card. Their collection includes: educational board games, math manipulativres, and science equipment.
+
 
 
