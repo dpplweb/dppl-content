@@ -31,7 +31,7 @@ The following magazines are located in this section:
 H.O.U.S.E. (Home Oriented Unique Schooling Experience) is a nonsectarian  statewide network of support groups for people involved in homeschooling. 
 
 - [Illinois Home Education](http://www.illinoishomeeducation.org/home.htm)
-Started and maintained by an Illinois family, this website provides comprehensive links to a variety of homeschooling resources, including Illinois laws.
+Started and maintained by an Illinois family, this website provides links to a variety of homeschooling resources, including Illinois laws.
 
 - [Illinois State Board of Education Homeschool Information](http://www.isbe.state.il.us/homeschool/default.htm)
 Information about homeschooling requirements in Illinois, including a comprehensive FAQ.
