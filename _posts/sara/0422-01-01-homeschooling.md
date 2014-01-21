@@ -26,10 +26,17 @@ The following magazines are located in this section:
 - Home Education Magazine
 - Practical Homeschooling
 
+Local area families conduct a variety of homeschooling opportunities on a weekly basis at the library. These include:
+- Art and music appreciation (for elementary - high school)
+- Junior Great Books discussions (4 years - upper elementary)
+- Writing workshops (elementary - high school)
+
+Contact library staff at 847-377-2939 for information about how to participate.
+
 ##Helpful Websites
 - [Illinois H.O.U.S.E.](http://www.illinoishouse.org/)
 
-H.O.U.S.E. (Home Oriented Unique Schooling Experience) is a nonsectarian  statewide network of support groups for people involved in homeschooling. 
+H.O.U.S.E. (Home Oriented Unique Schooling Experience) is a nonsectarian  statewide network of support groups for families involved in homeschooling. 
 
 - [Illinois Home Education](http://www.illinoishomeeducation.org/home.htm)
 
