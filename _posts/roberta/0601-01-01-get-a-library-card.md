@@ -54,18 +54,16 @@ Apply for a business card
 
 You can use your card to check out as many items as you want. You can also use your card to:
 
-- [create an online account](link to MyCatalog) to renew your items, place holds and keep track of what you check out
+- [Create an online account](link to MyCatalog) to renew your items, place holds and keep track of what you check out
 
-- check out an e-reader or tablet to take home (ask at the third floor information desk for more details)
+- Check out an eReader or tablet to take home (ask at the third floor information desk for more details)
 
-- sign up for a public computer
+- Sign up for a public computer
 
-- [access our online resources](link to dbases by subject) from home
+- [Access our online resources](link to dbases by subject) from home
 
-- [download books, audiobooks and music](link to eDPPL)
+- [Download books, audiobooks and music](link to eDPPL)
 
-- borrow items that we don't own from other libraries
+- Borrow items that we don't own from other libraries
 
-##Need to Know More?
-
-You can call the first floor registration desk at 847-376-2788 with questions about using your library card, or [email our Help Line](help email or contact page). Here's a [list of what we have in our collection](link to loan policies) and for how long you can check it out. Remember, [our online catalog](link to MyCatalog)is available 24 hours a day!
+There's so much to do with your DPPL library card!
