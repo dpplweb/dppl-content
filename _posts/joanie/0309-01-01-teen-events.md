@@ -32,6 +32,7 @@ Get ready for the ACT with this two-part program presented by Kaplan Test Prep &
 Our teen book club, the ## Shelfies## , meets every other month to hang out, drink coffee, and discuss book. Pick up the book club book one month before the meeting at the Readers’ Services desk. For teens in 7th -12th grade.   
 
 ## Battle of the Bands
-Are you a solo musician or in a band? Our annual battle of the bands is a great opportunity for you to play at great outdoor music event and win awesome cash prizes. E-mail Joanie at jsebastian@dppl.org for information.  
+Our annual Battle of the Bands is July 11th from 6-9 on Library Plaza. Come out to hear local bands compete for awesome cash prizes and a chance to move on to the the State of Illinois Regional Competition. If you are in a band and interested in competing, contact Joanie at jsebastian@dppl.org for information.  
 
-## Need Community Service Hours?##  Go here for information on volunteering at the library.
+## Need Community Service Hours?##  
+Go [here](http://dppl.org/support-the-library/volunteering-for-teens) for information on volunteering at the library.
